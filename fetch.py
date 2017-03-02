@@ -9,7 +9,7 @@ def slugify(value):
     """
     import unicodedata
     import re
-    value = unicode(value)
+    value = unicode(value.decode("utf-8"))
     value = unicodedata.normalize('NFKD', value).encode('ascii', 'ignore')
     value = unicode(re.sub('[^\w\s-]', '', value).strip().lower())
     value = unicode(re.sub('[-\s]+', '-', value))
