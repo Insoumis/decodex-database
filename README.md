@@ -1,6 +1,8 @@
 # decodex-database
 Decodex database
 
+Base de données : https://docs.google.com/spreadsheets/d/1WJ1c9y8hHECdkVbBYULGR8XWrCv9YRtw2LoCM6LCAew/edit#gid=0
+
 Cette extension est idéale pour compléter l'extension très pratique «décodex»
 des décodeurs du monde.
 
