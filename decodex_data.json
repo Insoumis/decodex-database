@@ -29,12 +29,12 @@
             "L'Agence France-Presse (AFP) est la principale agence de presse g\u00e9n\u00e9raliste fran\u00e7aise, implant\u00e9e dans environ 195 pays. La v\u00e9rification de ses informations et la mention syst\u00e9matique des sources sont parmi ses principaux piliers, lui donnant une tr\u00e8s grande fiabilit\u00e9 en r\u00e8gle g\u00e9n\u00e9rale.", 
             "AFP", 
             "afp", 
-            0, 
-            "", 
-            "", 
-            "", 
-            "", 
-            ""
+            1, 
+            "Capitaux propres.", 
+            "40% des revenus issues d'abonnements des services publics.\n3 repr\u00e9sentants de l'\u00e9tat parmi les 16 membres du CA.", 
+            "http://www.acrimed.org/Une-enquete-de-l-AFP-met-en-cause-un-depute-UMP-Censuree", 
+            "0", 
+            "https://fr.wikipedia.org/wiki/Agence_France-Presse#Le_statut_d.27ind.C3.A9pendance_et_de_neutralit.C3.A9"
         ], 
         "5": [
             4, 
@@ -114,10 +114,10 @@
             "Arr\u00eat sur images", 
             "arret-sur-images", 
             0, 
-            "", 
-            "", 
-            "", 
-            "", 
+            "LOUBIANA - Daniel Schneidermann", 
+            "-", 
+            "-", 
+            "0", 
             ""
         ], 
         "12": [
@@ -125,12 +125,12 @@
             "Cha\u00eene de t\u00e9l\u00e9vision culturelle de service public franco-allemande.", 
             "Arte", 
             "arte", 
-            0, 
-            "", 
-            "", 
-            "", 
-            "", 
-            ""
+            1, 
+            "Arte France (\u00c9tat, TV & Radio publique).\nArte Allemagne ARD/ZDF\nFinanc\u00e9e \u00e0 95% par la contribution \u00e0 l'audiovisuel public per\u00e7ue en France et en Allemagne.", 
+            "Collaboration Franco-Allemande, Europ\u00e9isme.", 
+            "http://www.acrimed.org/Sur-Arte-le-procureur-Jean-Quatremer-instruit-le-proces-a-charge-de-Syriza", 
+            "0", 
+            "http://www.acrimed.org/Sur-Arte-le-procureur-Jean-Quatremer-instruit-le-proces-a-charge-de-Syriza"
         ], 
         "13": [
             4, 
@@ -710,43 +710,7 @@
         ], 
         "61": [
             4, 
-            "R\u00e9seau de radio publique d'information locale d\u00e9clin\u00e9e en 45 radios de proximit\u00e9.", 
-            "France Bleu", 
-            "france-bleu", 
-            0, 
-            "", 
-            "", 
-            "", 
-            "", 
-            ""
-        ], 
-        "62": [
-            4, 
-            "Radio publique culturelle et de d\u00e9bats.", 
-            "France Culture", 
-            "france-culture", 
-            0, 
-            "", 
-            "", 
-            "", 
-            "", 
-            ""
-        ], 
-        "63": [
-            4, 
-            "Radio publique g\u00e9n\u00e9raliste.", 
-            "France Inter", 
-            "france-inter", 
-            0, 
-            "", 
-            "", 
-            "", 
-            "", 
-            ""
-        ], 
-    Lapine
-note insoumise manquante pour The Mideast Beast
-note insoumise manquante pour The Onion
+            "R\u00e9seau de manquante pour The Onion
 note insoumise manquante pour The Reporterz
 note insoumise manquante pour The Spoof
 note insoumise manquante pour The Stately Harold
@@ -782,7 +746,44 @@ note insoumise manquante pour Twitter
 note insoumise manquante pour Wikihow
 note insoumise manquante pour Wikipédia
 note insoumise manquante pour Yahoo!
-, 
+      4, 
+            "Un magazine mensuel f\u00e9minin.", 
+            "Glamour", 
+            "glamour", 
+            0, 
+            "", 
+            "", 
+            "", 
+            "", 
+            ""
+        ], 
+        "67": [
+            4, 
+            "Un hebdomadaire f\u00e9minin.", 
+            "Grazia", 
+            "grazia", 
+            0, 
+            "", 
+            "", 
+            "", 
+            "", 
+            ""
+        ], 
+        "68": [
+            4, 
+            "Une revue mensuelle de vulgarisation historique.", 
+            "Historia", 
+            "historia", 
+            0, 
+            "", 
+            "", 
+            "", 
+            "", 
+            ""
+        ], 
+        "69": [
+            4, 
+            "Un site am\u00e9ricain sp\u00e9cialis\u00e9 dans la v\u00e9rification de rumeurs sur Internet.", 
             "Hoax Slayer", 
             "hoax-slayer", 
             0, 
@@ -7487,7 +7488,7 @@ note insoumise manquante pour Yahoo!
         "twitter.com/laprovence": 85, 
         "facebook.com/Egalit\u00e9-et-R\u00e9conciliation-147792445266231": 367, 
         "twitter.com/clickhole": 505, 
-        "facebook.com/estrepublicain": 128, 
+        "facebook.com/Capital.fr": 27, 
         "facebook.com/ThePoliticalInsider": 478, 
         "bipartisanreport.com": 228, 
         "estrepublicain.fr": 128, 
@@ -7573,6 +7574,7 @@ note insoumise manquante pour Yahoo!
         "twitter.com/UnionArdennais": 139, 
         "facebook.com/AGDE.CAP.D.AGDE": 255, 
         "vice.com": 212, 
+        "histoires-paranormales.fr": 376, 
         "politico.eu": 169, 
         "twitter.com/Enquete_etDebat": 247, 
         "nypost.com": 277, 
@@ -7997,7 +7999,7 @@ note insoumise manquante pour Yahoo!
         "twitter.com/ABC": 3, 
         "twitter.com/nordpresse": 543, 
         "theintercept.com": 202, 
-        "facebook.com/Capital.fr": 27, 
+        "cnewsmatin.fr": 48, 
         "counterpunch.org": 242, 
         "facebook.com/antipresse": 335, 
         "larepubliquedespyrenees.fr": 87, 
@@ -8228,7 +8230,7 @@ note insoumise manquante pour Yahoo!
         "snopes.com": 184, 
         "youtube.com/user/MrMondialisation": 274, 
         "facebook.com/glamourparis": 66, 
-        "histoires-paranormales.fr": 376, 
+        "facebook.com/estrepublicain": 128, 
         "valeursactuelles.com": 318, 
         "mondialisation.ca": 429, 
         "facebook.com/paslinfo": 443, 
