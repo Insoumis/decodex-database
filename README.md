@@ -1,7 +1,33 @@
 # decodex-database
-Decodex database
+Base de données du decodex insoumis.
 
-Base de données : https://docs.google.com/spreadsheets/d/1WJ1c9y8hHECdkVbBYULGR8XWrCv9YRtw2LoCM6LCAew/edit#gid=0
+## Contribuer
+Pour contribuer, demander les droits d'accès à la base de données (google sheets) : https://docs.google.com/spreadsheets/d/1WJ1c9y8hHECdkVbBYULGR8XWrCv9YRtw2LoCM6LCAew/edit#gid=0
+
+ * Remplir en priorité les sites mieux notés par décodex (colonne note originelle, mieux = 4 puis 3 etc.)
+ * Propriétaires : [Organigramme du Monde Diplomatique http://www.monde-diplomatique.fr/cartes/ppa](http://www.monde-diplomatique.fr/cartes/ppa)
+ * **Aides à la presse** : 
+   * Prendre comme unique source la suivante : [Aides à la presse 2005](http://www.culturecommunication.gouv.fr/content/download/149093/1595779/version/1/file/2016.09.30%20-%20Tableau%20des%20titres%20aid%C3%A9s%20en%202015.pdf)
+   * Remplir le tableur avec comme donnée du PDF la colonne "Total des aides individuelles" (à droite)
+ * Exemples d'influence : faire une recherche avec le nom du journal sur [Acrimed](http://acrimed.org)
+   * Notation 
+   
+Code | Couleur | Description | Critères
+------------ | ------------- | ------------- | -------------
+0 | `gris  #A2A9AE`  | ??? | Aucune information connue ou suffisamment fiable pour se prononcer / impossible de statuer;
+1 | `rouge #F5A725`  | Complètement soumis | Possédé par l'état ou grands groupes industriels/financiers ou de grande fortunes.
+2 | `jaune #D50303`  | Plutôt soumis | Pas vert, pas bleu. Quelques liens avec des grands groupes Subventions < 1 000 000 €. 
+3 | `bleu #129AF0` | Plutôt insoumis | Appartient à ses rédacteurs ET subventions < 200 000 € / an
+4 | `vert #468847` | Insoumis | Appartient à ses rédacteurs ET Pas de publicité ET Subventions < 20 000 € / an
+ 
+ Exemples :
+ 
+ Nom | Description | Propriétaire | Intérets | Exemples d'influence | Subventions annuelles | Sources | Note | Note decodex | Adresses
+ ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------
+Direct matin | Un quotidien gratuit et site Internet d'information généraliste qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal. | Groupe Bolloré (10 milliards €) | Industrie des transports et de l'énergie, dépend de marché public (ex: autolib) | Auto-promotion d'autolib. |  13770 | http://www.acrimed.org/Direct-Matin-Autolib-et-Bollore-une-annee-d-autopromotion, http://www.acrimed.org/Direct-Matin-traque-les-chomeurs-a-7-000-euros-mensuels, http://www.acrimed.org/Direct-matin-reecrit-l-histoire-et-oublie-que  | 1 | 4 | directmatin.fr
+
+
+## Description
 
 Cette extension est idéale pour compléter l'extension très pratique «décodex»
 des décodeurs du monde.
