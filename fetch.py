@@ -58,13 +58,13 @@ with open('tmp.csv', 'rb') as csvfile:
         entry.append(note) # Notre note
         entry.append(row[2]) # Proprietaires
         entry.append(row[3]) # Interet des proprietaires
-        entry.append(row[5]) # Exemples d'influence / complicite ideologique
-        entry.append(row[6]) # Montant des subventions d'etat
-        entry.append(row[7]) # Sources
+        entry.append(row[4]) # Exemples d'influence / complicite ideologique
+        entry.append(row[5]) # Montant des subventions d'etat
+        entry.append(row[6]) # Sources
         
         database['sites'][id] = entry
 
-        for i in range(5, len(row)-1):
+        for i in range(7, len(row)-1):
             if row[i]:
                 database['urls'][row[i]] = id
         
