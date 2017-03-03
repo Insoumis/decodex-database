@@ -2,7 +2,7 @@
 Base de données du decodex insoumis.
 
 ## Contribuer
-Pour contribuer, demander les droits d'accès à la base de données (google sheets) : https://docs.google.com/spreadsheets/d/1WJ1c9y8hHECdkVbBYULGR8XWrCv9YRtw2LoCM6LCAew/edit#gid=0
+Pour contribuer, demander les droits d'accès à [la base de données (google sheets)](https://docs.google.com/spreadsheets/d/1WJ1c9y8hHECdkVbBYULGR8XWrCv9YRtw2LoCM6LCAew/edit#gid=0)
 
  * Remplir en priorité les sites mieux notés par décodex (colonne note originelle, mieux = 4 puis 3 etc.)
  * Propriétaires : [Organigramme du Monde Diplomatique http://www.monde-diplomatique.fr/cartes/ppa](http://www.monde-diplomatique.fr/cartes/ppa)
