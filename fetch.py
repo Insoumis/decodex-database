@@ -51,7 +51,7 @@ with open('tmp.csv', 'rb') as csvfile:
         except:
             pass
 
-        entry.append(note)
+        entry.append(note_decodex)
         entry.append(row[1])
         entry.append(row[0])
         entry.append(slugify(row[0]))
