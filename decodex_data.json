@@ -48,17 +48,17 @@
             "0", 
             "http://www.acrimed.org/Sur-Arte-le-procureur-Jean-Quatremer-instruit-le-proces-a-charge-de-Syriza"
         ], 
-        "590": [
-            0, 
-            "Youtube n'est pas une source d'information en soi, mais une plateforme de partage de vid\u00e9os avec des informations pouvant \u00e0 la fois \u00e9maner de m\u00e9dias \u00ab s\u00e9rieux \u00bb, de partis politiques mais aussi d'internautes plus ou moins fiables et plus ou moins bien intentionn\u00e9s. Ce que que vous y trouverez d\u00e9pend donc fondamentalement de son \u00e9metteur.", 
-            "YouTube", 
-            "youtube", 
-            0, 
+        "110": [
+            4, 
+            "Un quotidien et site Internet d'information g\u00e9n\u00e9raliste. Le groupe est d\u00e9tenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Berg\u00e9 et Matthieu Pigasse.", 
+            "Le Monde", 
+            "le-monde", 
+            1, 
             "", 
             "", 
             "", 
-            "", 
-            ""
+            "5438216", 
+            "http://www.acrimed.org/-Le-Monde-un-quotidien-de-reference-, http://www.acrimed.org/Le-Monde-accessoire-prefere-des-classes-dominantes"
         ], 
         "591": [
             0, 
@@ -84,23 +84,36 @@
             "", 
             ""
         ], 
-        "110": [
+        "18": [
             4, 
-            "Un quotidien et site Internet d'information g\u00e9n\u00e9raliste. Le groupe est d\u00e9tenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Berg\u00e9 et Matthieu Pigasse.", 
-            "Le Monde", 
-            "le-monde", 
+            "Cha\u00eene de t\u00e9l\u00e9vision d'information en continu, propri\u00e9t\u00e9 du groupe NextRadio TV.", 
+            "BFMTV", 
+            "bfmtv", 
             1, 
             "", 
             "", 
             "", 
-            "5438216", 
-            "http://www.acrimed.org/-Le-Monde-un-quotidien-de-reference-, http://www.acrimed.org/Le-Monde-accessoire-prefere-des-classes-dominantes"
+            "", 
+            ""
+        ], 
+        "590": [
+            0, 
+            "Youtube n'est pas une source d'information en soi, mais une plateforme de partage de vid\u00e9os avec des informations pouvant \u00e0 la fois \u00e9maner de m\u00e9dias \u00ab s\u00e9rieux \u00bb, de partis politiques mais aussi d'internautes plus ou moins fiables et plus ou moins bien intentionn\u00e9s. Ce que que vous y trouverez d\u00e9pend donc fondamentalement de son \u00e9metteur.", 
+            "YouTube", 
+            "youtube", 
+            0, 
+            "", 
+            "", 
+            "", 
+            "", 
+            ""
         ]
     }, 
     "urls": {
         "melenchon.fr": 592, 
         "afp.com": 4, 
         "twitter.com/LeFildActu1": 591, 
+        "twitter.com/BFMTV": 18, 
         "facebook.com/lefildactuofficiel": 591, 
         "facebook.com/AFPnewsenglish": 4, 
         "lemonde.fr": 110, 
@@ -110,6 +123,7 @@
         "facebook.com/20minutes": 2, 
         "twitter.com/AlterEco_": 8, 
         "facebook.com/lemonde.fr": 110, 
+        "facebook.com/BFMTV": 18, 
         "twitter.com/lemondefr": 110, 
         "twitter.com/ARTEfr": 12, 
         "twitter.com/afpfr": 4, 
@@ -119,6 +133,7 @@
         "20minutes.fr": 2, 
         "twitter.com/20Minutes": 2, 
         "alternatives-economiques.fr": 8, 
+        "bfmtv.com": 18, 
         "youtube.com/channel/UC9hHeywcPBnLglqnQRaNShQ": 591, 
         "facebook.com/AlternativesEconomiques": 8
     }
