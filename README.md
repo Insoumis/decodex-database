@@ -12,9 +12,10 @@ Pour contribuer, demander les droits d'accès à la base de données (google she
  * Exemples d'influence : faire une recherche avec le nom du journal sur [Acrimed](http://acrimed.org)
  
  Exemples :
+ 
  Nom | Description | Propriétaire | Intérets | Exemples d'influence | Subventions annuelles | Sources | Note | Note decodex | Adresses
  ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------
-Direct matin	Un quotidien gratuit et site Internet d'information généraliste qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal.	Groupe Bolloré (10 milliards €)	Industrie des transports et de l'énergie, dépend de marché public (ex: autolib)	Auto-promotion d'autolib.	13770	http://www.acrimed.org/Direct-Matin-Autolib-et-Bollore-une-annee-d-autopromotion, http://www.acrimed.org/Direct-Matin-traque-les-chomeurs-a-7-000-euros-mensuels, http://www.acrimed.org/Direct-matin-reecrit-l-histoire-et-oublie-que	2	4	directmatin.fr
+Direct matin | Un quotidien gratuit et site Internet d'information généraliste qui appartient au groupe de médias de Vincent Bolloré, également propriétaire de Canal. | Groupe Bolloré (10 milliards €) | Industrie des transports et de l'énergie, dépend de marché public (ex: autolib) | Auto-promotion d'autolib. |  13770 | http://www.acrimed.org/Direct-Matin-Autolib-et-Bollore-une-annee-d-autopromotion, http://www.acrimed.org/Direct-Matin-traque-les-chomeurs-a-7-000-euros-mensuels, http://www.acrimed.org/Direct-matin-reecrit-l-histoire-et-oublie-que  | 2 | 4 | directmatin.fr
 
 ## Description
 
