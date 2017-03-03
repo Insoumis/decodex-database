@@ -28,7 +28,7 @@ git checkout master
 git checkout gh-pages
 git merge -m"merge" master
 
-python fetch.py > decodex_data.json
+python fetch.py
 
 git add decodex_data.json
 
