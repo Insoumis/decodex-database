@@ -48,6 +48,18 @@
             "0", 
             "http://www.acrimed.org/Sur-Arte-le-procureur-Jean-Quatremer-instruit-le-proces-a-charge-de-Syriza"
         ], 
+        "594": [
+            0, 
+            "Le Stagirite est une cha\u00eene de vulgarisation sociologique", 
+            "Le Stagirite", 
+            "le-stagirite", 
+            4, 
+            "Le Stagirite", 
+            "", 
+            "", 
+            "aucune ?", 
+            ""
+        ], 
         "110": [
             4, 
             "Un quotidien et site Internet d'information g\u00e9n\u00e9raliste. Le groupe est d\u00e9tenu depuis 2010 par les hommes d'affaires Xavier Niel, Pierre Berg\u00e9 et Matthieu Pigasse.", 
@@ -127,12 +139,14 @@
         "twitter.com/LeFildActu1": 591, 
         "twitter.com/BFMTV": 18, 
         "facebook.com/lefildactuofficiel": 591, 
+        "https://www.facebook.com/pages/Le-Stagirite/": 594, 
         "facebook.com/AFPnewsenglish": 4, 
         "insoumis.online": 593, 
         "lemonde.fr": 110, 
         "youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA": 110, 
         "youtube.com": 590, 
         "arte.tv/fr": 12, 
+        "twitter.com/Le_Stagirite": 594, 
         "facebook.com/20minutes": 2, 
         "twitter.com/AlterEco_": 8, 
         "facebook.com/lemonde.fr": 110, 
@@ -147,6 +161,7 @@
         "twitter.com/20Minutes": 2, 
         "alternatives-economiques.fr": 8, 
         "discord.insoumis.online": 593, 
+        "youtube.com/channel/UCtyONQLs6htK-wWiCAk4wVw": 594, 
         "bfmtv.com": 18, 
         "youtube.com/channel/UC9hHeywcPBnLglqnQRaNShQ": 591, 
         "facebook.com/AlternativesEconomiques": 8
