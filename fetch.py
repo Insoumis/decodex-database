@@ -42,7 +42,21 @@ with open('tmp.csv', 'rb') as csvfile:
         node_decodex = -1
 
         try:
-            note = int(row[7][0])
+            if row[7] == '0-inconnu':
+                note = 0
+            elif row[7] == '1-completement-soumis':
+                note = 1
+            elif row[7] == '2-plutot-soumis':
+                note = 2
+            elif row[7] == '3-plutot-insoumis':
+                note = 3
+            elif row[7] == '4-completement-insoumis':
+                note = 4
+            elif row[7] == '5-site-insoumis':
+                note = 5
+            else:
+                print "note insoumise manquante pour "+row[0]
+                note = 0
         except:
             pass
 
