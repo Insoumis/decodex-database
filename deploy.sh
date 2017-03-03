@@ -19,7 +19,7 @@ git init
 git config user.name "Lucas Gautheron"
 git config user.email "lucas.gautheron@gmail.com"
 
-git remote add origin "https://$GH_TOKEN@github.com/Insoumis/tribune.insoumis.online.git"
+git remote add origin "https://$GH_TOKEN@github.com/Insoumis/decodex-database.git"
 git fetch origin
 git fetch origin master
 git fetch origin gh-pages
