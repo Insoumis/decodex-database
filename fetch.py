@@ -42,7 +42,7 @@ with open('tmp.csv', 'rb') as csvfile:
         node_decodex = -1
 
         try:
-            note = int(row[7])
+            note = int(row[7][0])
         except:
             pass
 
@@ -67,6 +67,6 @@ with open('tmp.csv', 'rb') as csvfile:
         for i in range(9, len(row)-1):
             if row[i]:
                 database['urls'][row[i]] = id
-        
-        
-print json.dumps(database, indent=4)
+
+with open('decodex_data.json', 'wb') as outfile:
+    json.dump(database, outfile, indent=4)

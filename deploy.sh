@@ -26,7 +26,7 @@ git fetch origin gh-pages
 
 git checkout master
 git checkout gh-pages
-git merge master
+git merge -m"merge" master
 
 python fetch.py > decodex_data.json
 
