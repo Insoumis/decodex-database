@@ -42,7 +42,21 @@ with open('tmp.csv', 'rb') as csvfile:
         node_decodex = -1
 
         try:
-            note = int(row[7][0])
+            if row[7] == '0-inconnu':
+                note = 0
+            elif row[7] == '1-completement-soumis':
+                note = 1
+            elif row[7] == '2-plutot-soumis':
+                note = 2
+            elif row[7] == '3-plutot-insoumis':
+                note = 3
+            elif row[7] == '4-completement-insoumis':
+                note = 4
+            elif row[7] == '5-site-insoumis':
+                note = 5
+            else:
+                # print "note insoumise manquante pour "+row[0]
+                note = 0
         except:
             pass
 
@@ -51,16 +65,16 @@ with open('tmp.csv', 'rb') as csvfile:
         except:
             pass
 
-        entry.append(note_decodex) # note originale decodex
-        entry.append(row[1]) # Description originale
-        entry.append(row[0]) # Nom
-        entry.append(slugify(row[0])) # Nom normalise
-        entry.append(note) # Notre note
-        entry.append(row[2]) # Proprietaires
-        entry.append(row[3]) # Interet des proprietaires
-        entry.append(row[4]) # Exemples d'influence / complicite ideologique
-        entry.append(row[5]) # Montant des subventions d'etat
-        entry.append(row[6]) # Sources
+        entry.append(note_decodex)     # 0  - note originale decodex
+        entry.append(row[1])           # 1  - Description originale
+        entry.append(row[0])           # 2  - Nom
+        entry.append(slugify(row[0]))  # 3  - Nom normalise
+        entry.append(note)             # 4  - Notre note
+        entry.append(row[2])           # 5  - Proprietaires
+        entry.append(row[3])           # 6  - Interet des proprietaires
+        entry.append(row[4])           # 7  - Exemples d'influence / complicite ideologique
+        entry.append(row[5])           # 8  - Montant des subventions d'etat
+        entry.append(row[6])           # 9 - Sources
         
         database['sites'][id] = entry
 
