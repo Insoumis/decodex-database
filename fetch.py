@@ -69,4 +69,5 @@ with open('tmp.csv', 'rb') as csvfile:
                 database['urls'][row[i]] = id
         
         
-print json.dumps(database, indent=4)
+with open('decodex_data.json', 'w') as outfile:
+    json.dumps(database, indent=4)
