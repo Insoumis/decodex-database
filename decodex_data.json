@@ -84,6 +84,18 @@
             "", 
             ""
         ], 
+        "593": [
+            0, 
+            "Le portail des insoumis online, qui regroupe quelques sites, officiels ou non, sur le mouvement de la France Insoumise, sur la politique en g\u00e9n\u00e9ral, des sujets de soci\u00e9t\u00e9. Ce sont les ressources id\u00e9ales pour prendre connaissance du programme l'Avenir en Commun, de son positionnement ou pour se documenter.", 
+            "Les Insoumis Online", 
+            "les-insoumis-online", 
+            5, 
+            "Les Insoumis Online", 
+            "L'Humain", 
+            "", 
+            "Aucune !", 
+            "Eux m\u00eame !"
+        ], 
         "18": [
             4, 
             "Cha\u00eene de t\u00e9l\u00e9vision d'information en continu, propri\u00e9t\u00e9 du groupe NextRadio TV.", 
@@ -116,6 +128,7 @@
         "twitter.com/BFMTV": 18, 
         "facebook.com/lefildactuofficiel": 591, 
         "facebook.com/AFPnewsenglish": 4, 
+        "insoumis.online": 593, 
         "lemonde.fr": 110, 
         "youtube.com/channel/UCYpRDnhk5H8h16jpS84uqsA": 110, 
         "youtube.com": 590, 
