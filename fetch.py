@@ -42,12 +42,12 @@ with open('tmp.csv', 'rb') as csvfile:
         node_decodex = -1
 
         try:
-            note = int(row[8])
+            note = int(row[7])
         except:
             pass
 
         try:
-            note_decodex = int(row[9])
+            note_decodex = int(row[8])
         except:
             pass
 
@@ -64,7 +64,7 @@ with open('tmp.csv', 'rb') as csvfile:
         
         database['sites'][id] = entry
 
-        for i in range(7, len(row)-1):
+        for i in range(9, len(row)-1):
             if row[i]:
                 database['urls'][row[i]] = id
         
