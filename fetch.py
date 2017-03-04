@@ -26,6 +26,20 @@ text_file.close()
 database = {'sites': {}, 'urls': {}}
 
 id = 0
+
+col_nom          = 0+1
+col_desc         = 1+1
+col_proprietaire = 2+1
+col_interet      = 3+1
+col_exemple      = 4+1
+col_subventions  = 5+1
+col_sources      = 6+1
+col_insoumis     = 7+1
+col_note_decodex = 8+1
+
+
+
+
 with open('tmp.csv', 'rb') as csvfile:
     reader = csv.reader(csvfile, delimiter=',', quotechar='"')
     for row in reader:
@@ -42,17 +56,17 @@ with open('tmp.csv', 'rb') as csvfile:
         node_decodex = -1
 
         try:
-            if row[7] == '0-inconnu':
+            if row[col_insoumis] == '0-inconnu':
                 note = 0
-            elif row[7] == '1-completement-soumis':
+            elif row[col_insoumis] == '1-completement-soumis':
                 note = 1
-            elif row[7] == '2-plutot-soumis':
+            elif row[col_insoumis] == '2-plutot-soumis':
                 note = 2
-            elif row[7] == '3-plutot-insoumis':
+            elif row[col_insoumis] == '3-plutot-insoumis':
                 note = 3
-            elif row[7] == '4-completement-insoumis':
+            elif row[col_insoumis] == '4-completement-insoumis':
                 note = 4
-            elif row[7] == '5-site-insoumis':
+            elif row[col_insoumis] == '5-site-insoumis':
                 note = 5
             else:
                 print "note insoumise manquante pour "+row[0]
@@ -61,20 +75,20 @@ with open('tmp.csv', 'rb') as csvfile:
             pass
 
         try:
-            note_decodex = int(row[8])
+            note_decodex = int(row[col_note_decodex])
         except:
             pass
 
-        entry.append(note_decodex)     # 0  - note originale decodex
-        entry.append(row[1])           # 1  - Description originale
-        entry.append(row[0])           # 2  - Nom
-        entry.append(slugify(row[0]))  # 3  - Nom normalise
-        entry.append(note)             # 4  - Notre note
-        entry.append(row[2])           # 5  - Proprietaires
-        entry.append(row[3])           # 6  - Interet des proprietaires
-        entry.append(row[4])           # 7  - Exemples d'influence / complicite ideologique
-        entry.append(row[5])           # 8  - Montant des subventions d'etat
-        entry.append(row[6])           # 9 - Sources
+        entry.append(note_decodex)                    # 0  - note originale decodex
+        entry.append(row[col_desc])                   # 1  - Description originale
+        entry.append(row[col_nom])                    # 2  - Nom
+        entry.append(slugify(row[col_nom]))           # 3  - Nom normalise
+        entry.append(note)                            # 4  - Notre note
+        entry.append(row[col_proprietaire])           # 5  - Proprietaires
+        entry.append(row[col_interet])                # 6  - Interet des proprietaires
+        entry.append(row[col_exemple])                # 7  - Exemples d'influence / complicite ideologique
+        entry.append(row[col_subventions])             # 8  - Montant des subventions d'etat
+        entry.append(row[col_sources])                # 9 - Sources
         
         database['sites'][id] = entry
 
