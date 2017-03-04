@@ -7,7 +7,7 @@ Pour contribuer, demander les droits d'accès à [la base de données (google sh
  * Remplir en priorité les sites mieux notés par décodex (colonne note originelle, mieux = 4 puis 3 etc.)
  * Propriétaires : [Organigramme du Monde Diplomatique http://www.monde-diplomatique.fr/cartes/ppa](http://www.monde-diplomatique.fr/cartes/ppa)
  * **Aides à la presse** : 
-   * Prendre comme unique source la suivante : [Aides à la presse 2005](http://www.culturecommunication.gouv.fr/content/download/149093/1595779/version/1/file/2016.09.30%20-%20Tableau%20des%20titres%20aid%C3%A9s%20en%202015.pdf)
+   * Prendre comme unique source la suivante : [Aides à la presse 2015](http://www.culturecommunication.gouv.fr/content/download/149093/1595779/version/1/file/2016.09.30%20-%20Tableau%20des%20titres%20aid%C3%A9s%20en%202015.pdf)
    * Remplir le tableur avec comme donnée du PDF la colonne "Total des aides individuelles" (à droite)
  * Exemples d'influence : faire une recherche avec le nom du journal sur [Acrimed](http://acrimed.org)
  * Notation 
