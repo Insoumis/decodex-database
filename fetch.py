@@ -90,8 +90,9 @@ with open('tmp.csv', 'rb') as csvfile:
         entry.append(row[col_proprietaire])           # 5  - Proprietaires
         entry.append(row[col_interet])                # 6  - Interet des proprietaires
         entry.append(row[col_exemple])                # 7  - Exemples d'influence / complicite ideologique
-        entry.append(row[col_subventions])             # 8  - Montant des subventions d'etat
-        entry.append(row[col_sources])                # 9 - Sources
+        entry.append(row[col_subventions])            # 8  - Montant des subventions d'etat
+        entry.append(row[col_pub])                    # 9  - Pub ?
+        entry.append(row[col_sources])                # 10 - Sources
         
         database['sites'][id] = entry
 
