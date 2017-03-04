@@ -10,16 +10,17 @@ Pour contribuer, demander les droits d'accès à [la base de données (google sh
    * Prendre comme unique source la suivante : [Aides à la presse 2005](http://www.culturecommunication.gouv.fr/content/download/149093/1595779/version/1/file/2016.09.30%20-%20Tableau%20des%20titres%20aid%C3%A9s%20en%202015.pdf)
    * Remplir le tableur avec comme donnée du PDF la colonne "Total des aides individuelles" (à droite)
  * Exemples d'influence : faire une recherche avec le nom du journal sur [Acrimed](http://acrimed.org)
-   * Notation 
+ * Notation 
    
+
 Code | Couleur | Description | Critères
 ------------ | ------------- | ------------- | -------------
-0 | `gris  #A2A9AE`  | ??? | Aucune information connue ou suffisamment fiable pour se prononcer / impossible de statuer;
-1 | `rouge #F5A725`  | Complètement soumis | Possédé par l'état ou grands groupes industriels/financiers ou de grande fortunes.
-2 | `jaune #D50303`  | Plutôt soumis | Pas vert, pas bleu. Quelques liens avec des grands groupes Subventions < 1 000 000 €. 
-3 | `bleu #129AF0` | Plutôt insoumis | Appartient à ses rédacteurs ET subventions < 200 000 € / an
-4 | `vert #468847` | Insoumis | Appartient à ses rédacteurs ET Pas de publicité ET Subventions < 20 000 € / an
- 
+0 | `gris  #A2A9AE`  | NSPP | Aucune information connue ou suffisamment fiable pour se prononcer / impossible de statuer;
+1 | `rouge #F5A725`  | Complètement soumis | Possédé par l'état ou grands groupes industriels/financiers ou de grande fortunes, ou subventions > `1 000 000 €`.
+2 | `jaune #D50303`  | Plutôt soumis | Pas vert, pas bleu. Quelques liens avec des grands groupes Subventions < `1 000 000 €`. 
+3 | `bleu #129AF0` | Plutôt insoumis | Appartient à ses rédacteurs ET subventions < `200 000 €` / an
+4 | `vert #468847` | Insoumis | Appartient à ses rédacteurs ET Pas de publicité ET Subventions < `20 000 €` / an
+
  Exemples :
  
  Nom | Description | Propriétaire | Intérets | Exemples d'influence | Subventions annuelles | Sources | Note | Note decodex | Adresses
