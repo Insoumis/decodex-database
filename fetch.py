@@ -17,6 +17,7 @@ def slugify(value):
 
 response = requests.get('https://docs.google.com/spreadsheets/export?id=1WJ1c9y8hHECdkVbBYULGR8XWrCv9YRtw2LoCM6LCAew&exportFormat=csv')
 response.encoding = 'UTF-8'
+
 assert response.status_code == 200, 'failed to download csv file'
 
 text_file = open('tmp.csv', 'w')
@@ -33,9 +34,11 @@ col_proprietaire = 2+1
 col_interet      = 3+1
 col_exemple      = 4+1
 col_subventions  = 5+1
-col_sources      = 6+1
-col_insoumis     = 7+1
-col_note_decodex = 8+1
+col_pub          = 6+1
+col_sources      = 7+1
+col_insoumis     = 8+1
+col_note_decodex = 9+1
+col_urls         = 10+1
 
 
 
@@ -92,7 +95,7 @@ with open('tmp.csv', 'rb') as csvfile:
         
         database['sites'][id] = entry
 
-        for i in range(9, len(row)-1):
+        for i in range(col_urls, len(row)-1):
             if row[i]:
                 database['urls'][row[i]] = id
 
