@@ -10,6 +10,13 @@ Pour contribuer, demander les droits d'accès à [la base de données (google sh
    * Prendre comme unique source la suivante : [Aides à la presse 2015](http://www.culturecommunication.gouv.fr/content/download/149093/1595779/version/1/file/2016.09.30%20-%20Tableau%20des%20titres%20aid%C3%A9s%20en%202015.pdf)
    * Remplir le tableur avec comme donnée du PDF la colonne "Total des aides individuelles" (à droite)
  * Exemples d'influence : faire une recherche avec le nom du journal sur [Acrimed](http://acrimed.org)
+ * Sources: Cette case doit contenir des urls (qui commencent par `http://`).
+   Le format pour les urls est comme le langage «MarkDown», c'est à dire celui ci :
+```
+[Le titre de l'article](http://lien-vers-l-article)
+```
+
+
  * Notation 
    
 
