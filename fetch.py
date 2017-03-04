@@ -69,7 +69,7 @@ with open('tmp.csv', 'rb') as csvfile:
             elif row[col_insoumis] == '5-site-insoumis':
                 note = 5
             else:
-                print "note insoumise manquante pour "+row[0]
+                print "note insoumise manquante pour "+row[col_nom]
                 continue
         except:
             pass
