@@ -396,12 +396,12 @@
             "Mediapart", 
             "mediapart", 
             4, 
+            "Mediapart est un journal d'information num\u00e9rique, ind\u00e9pendant et participatif. Il est n\u00e9 de la volont\u00e9 de quatre journalistes: Fran\u00e7ois Bonnet, G\u00e9rard Desportes, Laurent Mauduit et Edwy Plenel. Les deux autres fondateurs sont Marie-H\u00e9l\u00e8ne Smi\u00e9jan et Godefroy Beauvallet.", 
             "", 
             "", 
             "", 
             "", 
-            "", 
-            ""
+            "[L'historique de la cr\u00e9ation Mediapart et les conditions de son financement.](https://www.mediapart.fr/journal/france/090308/comment-mediapart-construit-son-independance) [Le prix de la libert\u00e9](http://www.mediapart.fr/journal/france/100308/le-prix-de-la-liberte)"
         ]
     }, 
     "urls": {
@@ -442,10 +442,11 @@
         "france5.fr": 38, 
         "canardpc.com": 15, 
         "facebook.com/directmatin": 29, 
-        "facebook.com/france2": 35, 
+        "facebook.com/BFMTV": 205, 
         "facebook.com/arretsurimages.net": 6, 
         "twitter.com/France3tv": 37, 
         "facebook.com/artetv": 204, 
+        "www.fakirpresse.info": 203, 
         "youtube.com/user/LJALTERECO": 4, 
         "facebook.com/Clubic": 19, 
         "twitter.com/20Minutes": 2, 
@@ -485,7 +486,7 @@
         "twitter.com/France2tv": 35, 
         "facebook.com/france5": 38, 
         "facebook.com/france3": 37, 
-        "facebook.com/BFMTV": 205, 
+        "facebook.com/france2": 35, 
         "twitter.com/lemondefr": 79, 
         "melenchon.fr": 200, 
         "france2.fr": 35, 
