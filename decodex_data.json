@@ -132,6 +132,18 @@
             "0", 
             "https://www.marianne.net/politique/bfmtv-diffuse-autant-de-macron-que-de-fillon-hamon-melenchon-et-le-pen-reunis"
         ], 
+        "116": [
+            4, 
+            "Un quotidien et site Internet d'information g\u00e9n\u00e9raliste d\u00e9tenu par le groupe de luxe LVMH, dirig\u00e9 par le milliardaire Bernard Arnault.", 
+            "Le Parisien-Aujourd\u2019hui en France", 
+            "le-parisien-aujourdhui-en-france", 
+            1, 
+            "Bernard Arnault (LVMH)", 
+            "Luxe, ", 
+            "", 
+            "9343503", 
+            "http://www.acrimed.org/Le-Parisien-censure-le-DVD-de-Merci-patron\nhttp://www.acrimed.org/Pseudo-journalisme-politique-au-Parisien-ca-va\nhttp://www.acrimed.org/Face-a-L-Oreal-le-journalisme-d-investigation-impitoyable-du-Parisien http://www.acrimed.org/Greve-a-la-SNCF-les-usagers-des-medias-pris-en-otage-par-les-editocrates"
+        ], 
         "21": [
             4, 
             "Un portail d'information qui appartient au m\u00eame groupe que la banque en ligne du m\u00eame nom, dont la Soci\u00e9t\u00e9 g\u00e9n\u00e9rale est actionnaire.", 
@@ -186,6 +198,7 @@
         "afp.com": 4, 
         "twitter.com/LeFildActu1": 591, 
         "twitter.com/BFMTV": 18, 
+        "leparisien.fr": 116, 
         "canalplus.fr": 25, 
         "facebook.com/lefildactuofficiel": 591, 
         "twitter.com/AlterEco_": 8, 
@@ -221,9 +234,11 @@
         "alternatives-economiques.fr": 8, 
         "facebook.com/canalplus": 25, 
         "discord.insoumis.online": 593, 
+        "twitter.com/le_Parisien": 116, 
         "youtube.com/channel/UCtyONQLs6htK-wWiCAk4wVw": 594, 
         "twitter.com/arretsurimages": 11, 
         "youtube.com/channel/UC9hHeywcPBnLglqnQRaNShQ": 591, 
-        "facebook.com/AlternativesEconomiques": 8
+        "facebook.com/AlternativesEconomiques": 8, 
+        "facebook.com/leparisien": 116
     }
 }
