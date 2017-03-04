@@ -27,15 +27,15 @@ database = {'sites': {}, 'urls': {}}
 
 id = 0
 
-col_nom          = 0
-col_desc         = 1
-col_proprietaire = 2
-col_interet      = 3
-col_exemple      = 4
-col_subventions  = 5
-col_sources      = 6
-col_insoumis     = 7
-col_note_decodex = 8
+col_nom          = 0+1
+col_desc         = 1+1
+col_proprietaire = 2+1
+col_interet      = 3+1
+col_exemple      = 4+1
+col_subventions  = 5+1
+col_sources      = 6+1
+col_insoumis     = 7+1
+col_note_decodex = 8+1
 
 
 
