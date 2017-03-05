@@ -69,23 +69,25 @@ with open('tmp.csv', 'rb') as csvfile:
             continue
 
         entry = []
-        note = -1
+        note_soumission = -1
         node_decodex = -1
 
         try:
 
             if row[col_insoumis] == '0-inconnu':
-                note = 0
+                note_soumission = 0
             elif row[col_insoumis] == '1-soumis-capital':
-                note = 1
+                note_soumission = 1
             elif row[col_insoumis] == '2-soumis-etat':
-                note = 2
+                note_soumission = 2
             elif row[col_insoumis] == '4-insoumis-independant':
-                note = 4
+                note_soumission = 4
             elif row[col_insoumis] == '5-site-insoumis':
-                note = 5
+                note_soumission = 5
             else:
                 print "note insoumise manquante pour "+row[col_nom]
+                print "note insoumise manquante pour "+row[0]
+                print "note insoumise manquante pour "+row[1]
                 continue
         except:
             pass
@@ -99,27 +101,27 @@ with open('tmp.csv', 'rb') as csvfile:
         entry.append(row[col_desc])                   # 1  - Description originale
         entry.append(row[col_nom])                    # 2  - Nom
         entry.append(slugify(row[col_nom]))           # 3  - Nom normalise
-        entry.append(note)                            # 4  - Notre note
+        entry.append(note_soumission)                 # 4  - Notre note
 
         entry.append(row[col_pub])                    # 5  - Pub ?
         entry.append(row[col_subventions])            # 6  - subventions
 
-        entry.append(row[col_sources])                # 10 - Sources
+        entry.append(row[col_sources])                # 7 - Sources
 
-        entry.append(row[col_proprietaire1])          #
-        entry.append(row[col_fortune1])               #
-        entry.append(row[col_marque1])                #
-        entry.append(row[col_influence1])             #
+        entry.append(row[col_proprietaire1])          # 8
+        entry.append(row[col_fortune1])               # 9
+        entry.append(row[col_marque1])                # 10
+        entry.append(row[col_influence1])             # 11
 
-        entry.append(row[col_proprietaire2])          #
-        entry.append(row[col_fortune2])               #
-        entry.append(row[col_marque2])                #
-        entry.append(row[col_influence2])             #
+        entry.append(row[col_proprietaire2])          # 12
+        entry.append(row[col_fortune2])               # 13
+        entry.append(row[col_marque2])                # 14
+        entry.append(row[col_influence2])             # 15
 
-        entry.append(row[col_proprietaire3])          #
-        entry.append(row[col_fortune3])               #
-        entry.append(row[col_marque3])                #
-        entry.append(row[col_influence3])             #
+        entry.append(row[col_proprietaire3])          # 16
+        entry.append(row[col_fortune3])               # 17
+        entry.append(row[col_marque3])                # 18
+        entry.append(row[col_influence3])             # 19
 
 
         database['sites'][id] = entry
