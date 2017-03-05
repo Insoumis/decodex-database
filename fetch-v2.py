@@ -74,20 +74,19 @@ with open('tmp.csv', 'rb') as csvfile:
 
         try:
 
-            if row[col_insoumis] == '0-inconnu':
+            if row[col_soumission] == '0-inconnu':
                 note_soumission = 0
-            elif row[col_insoumis] == '1-soumis-capital':
+            elif row[col_soumission] == '1-soumis-capital':
                 note_soumission = 1
-            elif row[col_insoumis] == '2-soumis-etat':
+                print "soumis au capital pour "+row[col_nom]
+            elif row[col_soumission] == '2-soumis-etat':
                 note_soumission = 2
-            elif row[col_insoumis] == '4-insoumis-independant':
+            elif row[col_soumission] == '4-insoumis-independant':
                 note_soumission = 4
-            elif row[col_insoumis] == '5-site-insoumis':
+            elif row[col_soumission] == '5-site-insoumis':
                 note_soumission = 5
             else:
                 print "note insoumise manquante pour "+row[col_nom]
-                print "note insoumise manquante pour "+row[0]
-                print "note insoumise manquante pour "+row[1]
                 continue
         except:
             pass
