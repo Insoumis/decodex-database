@@ -83,7 +83,7 @@ with open('tmp.csv', 'rb') as csvfile:
                 note_soumission = 2
             elif row[col_soumission] == '4-insoumis-independant':
                 note_soumission = 4
-            elif row[col_soumission] == '5-site-insoumis':
+            elif row[col_soumission] == '5-site-partisan-insoumis':
                 note_soumission = 5
             else:
                 print "note insoumise manquante pour "+row[col_nom]
