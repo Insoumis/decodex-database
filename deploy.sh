@@ -31,8 +31,11 @@ git merge -m"merge" master
 python fetch.py
 python fetch-v2.py
 
-git add decodex_data.json database.json
+changes=$(git status -uno -s)
 
-git commit -m"Update"
-
-git push
+if [[ -n $changes ]]; then
+    date=$(date)
+    git add decodex_data.json database.json
+    git commit -m"Update with $rev ($date)"
+    git push
+fi
