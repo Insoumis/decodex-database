@@ -109,6 +109,28 @@
             "", 
             "", 
             ""
+        ], 
+        "7": [
+            4, 
+            "Portail regroupant quelques sites, officiels ou non, sur le mouvement de la France Insoumise, sur la politique en g\u00e9n\u00e9ral, des sujets de soci\u00e9t\u00e9. Ce sont les ressources id\u00e9ales pour prendre connaissance du programme l'Avenir en Commun, de son positionnement ou pour se documenter.", 
+            "Les Insoumis Online", 
+            "les-insoumis-online", 
+            5, 
+            "Non", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            ""
         ]
     }, 
     "urls": {
@@ -117,6 +139,7 @@
         "facebook.com/lesechos": 3, 
         "marianne.net": 6, 
         "gulli.fr": 2, 
+        "insoumis.online": 7, 
         "lefigaro.fr/": 4, 
         "france2.fr": 5, 
         "facebook.com/france2": 5, 
