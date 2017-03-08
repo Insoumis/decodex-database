@@ -2,6 +2,16 @@ import requests
 import csv
 import json
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
 def slugify(value):
     """
     Normalizes string, converts to lowercase, removes non-alpha characters,
@@ -76,17 +86,22 @@ with open('tmp.csv', 'rb') as csvfile:
 
             if row[col_soumission] == '0-inconnu':
                 note_soumission = 0
+                print bcolors.OKBLUE+"[  inconnu   ] "+bcolors.ENDC+" "+row[col_nom]
             elif row[col_soumission] == '1-soumis-capital':
                 note_soumission = 1
                 print "soumis au capital pour "+row[col_nom]
+                print bcolors.OKGREEN+"[  capital  ] "+bcolors.ENDC+" "+row[col_nom]
             elif row[col_soumission] == '2-soumis-etat':
                 note_soumission = 2
+                print bcolors.OKBLUE +"[    etat   ] "+bcolors.ENDC+" "+row[col_nom]
             elif row[col_soumission] == '4-insoumis-independant':
                 note_soumission = 4
+                print bcolors.OKGREEN+"[   indep   ] "+bcolors.ENDC+" "+row[col_nom]
             elif row[col_soumission] == '5-site-partisan-insoumis':
                 note_soumission = 5
+                print bcolors.OKGREEN+"[  site fi  ] "+bcolors.ENDC+" "+row[col_nom]
             else:
-                print "note insoumise manquante pour "+row[col_nom]
+                print bcolors.FAIL+"[note fi manquante] "+bcolors.ENDC+" "+row[col_nom]+" (on met 0)"
                 continue
         except:
             pass
@@ -94,6 +109,8 @@ with open('tmp.csv', 'rb') as csvfile:
         try:
             note_decodex = int(row[col_decodex])
         except:
+            print "               "+bcolors.WARNING+" [note decodex manquante] "+bcolors.ENDC+" "+row[col_nom]+" (on met 0)"
+            note_decodex = 0
             pass
 
         entry.append(note_decodex)                    # 0  - note originale decodex
