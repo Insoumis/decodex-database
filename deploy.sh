@@ -7,8 +7,6 @@ fi
 
 if [[ false == $test_mode ]]; then
 
-    echo "PRODDD";
-    exit;
     set -o errexit -o nounset
 
     if [ "$TRAVIS_BRANCH" != "master" ]
