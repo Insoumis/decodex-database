@@ -1,25 +1,35 @@
 #!/bin/bash
 
-set -o errexit -o nounset
-
-if [ "$TRAVIS_BRANCH" != "master" ]
-then
-  echo "This commit was made against the $TRAVIS_BRANCH and not the master! No deploy!"
-  exit 0
+test_mode=false
+if [[ "$1" == "test" ]] || [[ "$3" == "test" ]]; then
+    test_mode=true
 fi
 
-rev=$(git rev-parse --short HEAD)
+if [[ false == $test_mode ]]; then
 
-mkdir deploy
-cd deploy
+    set -o errexit -o nounset
 
-echo $GH_TOKEN | cut -c1-5
+    if [ "$TRAVIS_BRANCH" != "master" ]
+    then
+        echo "This commit was made against the $TRAVIS_BRANCH and not the master! No deploy!"
+        exit 0
+    fi
 
-git init
-git config user.name "Lucas Gautheron"
-git config user.email "lucas.gautheron@gmail.com"
+    rev=$(git rev-parse --short HEAD)
 
-git remote add origin "https://$GH_TOKEN@github.com/Insoumis/decodex-database.git"
+    mkdir deploy
+    cd deploy
+
+    echo $GH_TOKEN | cut -c1-5
+
+    git init
+    git config user.name "Lucas Gautheron"
+    git config user.email "lucas.gautheron@gmail.com"
+
+    git remote add origin "https://$GH_TOKEN@github.com/Insoumis/decodex-database.git"
+else
+    echo "Push cancelled (test mode)"
+fi
 git fetch origin
 git fetch origin master
 git fetch origin gh-pages
@@ -37,5 +47,10 @@ if [[ -n $changes ]]; then
     date=$(date)
     git add decodex_data.json database.json
     git commit -m"Update with $rev ($date)"
-    git push
+    if [[ false == $test_mode ]]; then
+        git push
+    else
+        echo "Push cancelled (test mode)"
+    fi
 fi
+
