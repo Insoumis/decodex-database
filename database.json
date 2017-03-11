@@ -7,7 +7,7 @@
             "les-insoumis-online", 
             5, 
             "Non", 
-            "", 
+            "nada", 
             "", 
             "", 
             "", 
@@ -23,8 +23,74 @@
             ""
         ], 
         "3": [
+            0, 
+            "", 
+            "Exemple soumis capital", 
+            "exemple-soumis-capital", 
+            1, 
+            "Oui", 
+            "plein", 
+            "", 
+            "proprio1", 
+            "xxxeme fortune de france", 
+            "une marque, une autre", 
+            "une influence ?", 
+            "proprio2", 
+            "xxxeme fortune du monde", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            ""
+        ], 
+        "4": [
+            0, 
+            "", 
+            "exemple soumis \u00e9tat", 
+            "exemple-soumis-etat", 
+            2, 
+            "", 
+            "question b\u00eate", 
+            "", 
+            "Russie (par exemple)", 
+            "1ere puissance \u00e9conoique mondiale", 
+            "", 
+            "Climatosceptique, etc\u2026 ? :p", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            ""
+        ], 
+        "5": [
+            0, 
+            "", 
+            "exemple ind\u00e9pendant", 
+            "exemple-independant", 
             4, 
-            "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
+            "Non", 
+            "non :)", 
+            "", 
+            "proprio ind\u00e9pendant", 
+            "xxxeme fortune de france", 
+            "", 
+            "une influence ?", 
+            "proprio2 ind\u00e9pendant", 
+            "xxxeme fortune du monde", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            ""
+        ], 
+        "7": [
+            4, 
+            "Ce m\u00e9dia est li\u00e9 par le capital a ces principaux actionnaires.", 
             "L'OBS", 
             "lobs", 
             1, 
@@ -44,7 +110,7 @@
             "", 
             ""
         ], 
-        "4": [
+        "8": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Mani\u00e8re de voir", 
@@ -66,7 +132,7 @@
             "", 
             ""
         ], 
-        "5": [
+        "9": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Le Monde diplomatique", 
@@ -88,7 +154,7 @@
             "", 
             ""
         ], 
-        "6": [
+        "10": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "La vie", 
@@ -110,7 +176,7 @@
             "", 
             ""
         ], 
-        "7": [
+        "11": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Prier", 
@@ -132,7 +198,7 @@
             "", 
             ""
         ], 
-        "8": [
+        "12": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "T\u00e9l\u00e9rama", 
@@ -154,7 +220,7 @@
             "", 
             ""
         ], 
-        "9": [
+        "13": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Courrier international", 
@@ -176,7 +242,7 @@
             "", 
             ""
         ], 
-        "10": [
+        "14": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Le Monde des Religions", 
@@ -198,7 +264,7 @@
             "", 
             ""
         ], 
-        "11": [
+        "15": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Le Monde", 
@@ -220,9 +286,9 @@
             "", 
             ""
         ], 
-        "12": [
+        "16": [
             4, 
-            "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
+            "Ce m\u00e9dia est li\u00e9 par le captial \u00e0 son principal actionnaires.", 
             "Les inrockuptibles", 
             "les-inrockuptibles", 
             1, 
@@ -242,7 +308,7 @@
             "", 
             ""
         ], 
-        "13": [
+        "17": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "nova le grand mix", 
@@ -264,7 +330,7 @@
             "", 
             ""
         ], 
-        "14": [
+        "18": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Vice", 
@@ -286,7 +352,7 @@
             "", 
             ""
         ], 
-        "15": [
+        "19": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Le Huffington Post", 
@@ -308,7 +374,7 @@
             "", 
             ""
         ], 
-        "16": [
+        "20": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Particulier", 
@@ -330,7 +396,7 @@
             "", 
             ""
         ], 
-        "17": [
+        "21": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Figaro magazine", 
@@ -352,7 +418,7 @@
             "", 
             ""
         ], 
-        "18": [
+        "22": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Figaro", 
@@ -374,7 +440,7 @@
             "", 
             ""
         ], 
-        "19": [
+        "23": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Marianne", 
@@ -396,7 +462,7 @@
             "", 
             ""
         ], 
-        "20": [
+        "24": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "iT\u00e9l\u00e9", 
@@ -418,7 +484,7 @@
             "", 
             ""
         ], 
-        "21": [
+        "25": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "C Star", 
@@ -440,7 +506,7 @@
             "", 
             ""
         ], 
-        "22": [
+        "26": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "C8", 
@@ -462,7 +528,7 @@
             "", 
             ""
         ], 
-        "23": [
+        "27": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Canal+", 
@@ -484,7 +550,7 @@
             "", 
             ""
         ], 
-        "24": [
+        "28": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Direct Matin", 
@@ -506,7 +572,7 @@
             "", 
             ""
         ], 
-        "25": [
+        "29": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "TMC", 
@@ -528,7 +594,7 @@
             "", 
             ""
         ], 
-        "26": [
+        "30": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "HD1", 
@@ -550,7 +616,7 @@
             "", 
             ""
         ], 
-        "27": [
+        "31": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "NT1", 
@@ -572,7 +638,7 @@
             "", 
             ""
         ], 
-        "28": [
+        "32": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "LCI", 
@@ -594,7 +660,7 @@
             "", 
             ""
         ], 
-        "29": [
+        "33": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "TF1", 
@@ -616,7 +682,7 @@
             "", 
             ""
         ], 
-        "30": [
+        "34": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Slate", 
@@ -638,7 +704,7 @@
             "", 
             ""
         ], 
-        "31": [
+        "35": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Point", 
@@ -660,7 +726,7 @@
             "", 
             ""
         ], 
-        "32": [
+        "36": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "L'AGEFI Hebdo", 
@@ -682,7 +748,7 @@
             "", 
             ""
         ], 
-        "33": [
+        "37": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Notre Temps", 
@@ -704,7 +770,7 @@
             "", 
             ""
         ], 
-        "34": [
+        "38": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "P\u00e9lerin", 
@@ -726,7 +792,7 @@
             "", 
             ""
         ], 
-        "35": [
+        "39": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "La Croix", 
@@ -748,7 +814,7 @@
             "", 
             ""
         ], 
-        "36": [
+        "40": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 des Etats suivants :", 
             "Arte", 
@@ -770,7 +836,7 @@
             "", 
             ""
         ], 
-        "37": [
+        "41": [
             0, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "Public S\u00e9nat", 
@@ -792,7 +858,7 @@
             "", 
             ""
         ], 
-        "38": [
+        "42": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "LCP", 
@@ -814,7 +880,7 @@
             "", 
             ""
         ], 
-        "39": [
+        "43": [
             0, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "MCD", 
@@ -836,7 +902,7 @@
             "", 
             ""
         ], 
-        "40": [
+        "44": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France24", 
@@ -858,7 +924,7 @@
             "", 
             ""
         ], 
-        "41": [
+        "45": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "rfi", 
@@ -880,7 +946,7 @@
             "", 
             ""
         ], 
-        "42": [
+        "46": [
             0, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "TV5MONDE", 
@@ -902,7 +968,7 @@
             "", 
             ""
         ], 
-        "43": [
+        "47": [
             0, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France \u00d4", 
@@ -924,7 +990,7 @@
             "", 
             ""
         ], 
-        "44": [
+        "48": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France 5", 
@@ -946,7 +1012,7 @@
             "", 
             ""
         ], 
-        "45": [
+        "49": [
             0, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France 4", 
@@ -968,7 +1034,7 @@
             "", 
             ""
         ], 
-        "46": [
+        "50": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France 3", 
@@ -990,7 +1056,7 @@
             "", 
             ""
         ], 
-        "47": [
+        "51": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France 2", 
@@ -1012,7 +1078,7 @@
             "", 
             ""
         ], 
-        "48": [
+        "52": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "franceinfo", 
@@ -1034,7 +1100,7 @@
             "", 
             ""
         ], 
-        "49": [
+        "53": [
             0, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "Radio France", 
@@ -1056,7 +1122,7 @@
             "", 
             ""
         ], 
-        "50": [
+        "54": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "Mouv", 
@@ -1078,7 +1144,7 @@
             "", 
             ""
         ], 
-        "51": [
+        "55": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France Bleu", 
@@ -1100,7 +1166,7 @@
             "", 
             ""
         ], 
-        "52": [
+        "56": [
             0, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "FIP", 
@@ -1122,7 +1188,7 @@
             "", 
             ""
         ], 
-        "53": [
+        "57": [
             0, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France Musique", 
@@ -1144,7 +1210,7 @@
             "", 
             ""
         ], 
-        "54": [
+        "58": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France Culture", 
@@ -1166,7 +1232,7 @@
             "", 
             ""
         ], 
-        "55": [
+        "59": [
             4, 
             "Ce m\u00e9dia est la propri\u00e9t\u00e9 de la", 
             "France Inter", 
@@ -1188,7 +1254,7 @@
             "", 
             ""
         ], 
-        "56": [
+        "60": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le journal de la Haute Marne", 
@@ -1210,7 +1276,7 @@
             "", 
             ""
         ], 
-        "57": [
+        "61": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Vaucluse", 
@@ -1232,7 +1298,7 @@
             "", 
             ""
         ], 
-        "58": [
+        "62": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Dauphin\u00e9 Liber\u00e9", 
@@ -1254,7 +1320,7 @@
             "", 
             ""
         ], 
-        "59": [
+        "63": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Progr\u00e8s", 
@@ -1276,7 +1342,7 @@
             "", 
             ""
         ], 
-        "60": [
+        "64": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "le journal", 
@@ -1298,7 +1364,7 @@
             "", 
             ""
         ], 
-        "61": [
+        "65": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Bien Public", 
@@ -1320,7 +1386,7 @@
             "", 
             ""
         ], 
-        "62": [
+        "66": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "L'Alsace", 
@@ -1342,7 +1408,7 @@
             "", 
             ""
         ], 
-        "63": [
+        "67": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Vosges Matin", 
@@ -1364,7 +1430,7 @@
             "", 
             ""
         ], 
-        "64": [
+        "68": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "DNA", 
@@ -1386,7 +1452,7 @@
             "", 
             ""
         ], 
-        "65": [
+        "69": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le R\u00e9publicain Lorrain", 
@@ -1408,7 +1474,7 @@
             "", 
             ""
         ], 
-        "66": [
+        "70": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "L'Est R\u00e9publicain", 
@@ -1430,7 +1496,7 @@
             "", 
             ""
         ], 
-        "67": [
+        "71": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "L'Echos R\u00e9publicain", 
@@ -1452,7 +1518,7 @@
             "", 
             ""
         ], 
-        "68": [
+        "72": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "L'Yonne R\u00e9publicaine", 
@@ -1474,7 +1540,7 @@
             "", 
             ""
         ], 
-        "69": [
+        "73": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Le Berry R\u00e9publicain", 
@@ -1496,7 +1562,7 @@
             "", 
             ""
         ], 
-        "70": [
+        "74": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Le Journal du Centre", 
@@ -1518,7 +1584,7 @@
             "", 
             ""
         ], 
-        "71": [
+        "75": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Le populaire du Centre", 
@@ -1540,7 +1606,7 @@
             "", 
             ""
         ], 
-        "72": [
+        "76": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "La Montagne", 
@@ -1562,7 +1628,7 @@
             "", 
             ""
         ], 
-        "73": [
+        "77": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "La R\u00e9publique du Centre", 
@@ -1584,7 +1650,7 @@
             "", 
             ""
         ], 
-        "74": [
+        "78": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Centre Presse", 
@@ -1606,7 +1672,7 @@
             "", 
             ""
         ], 
-        "75": [
+        "79": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "La Nouvelle R\u00e9publique", 
@@ -1628,7 +1694,7 @@
             "", 
             ""
         ], 
-        "76": [
+        "80": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "TV Tours", 
@@ -1650,7 +1716,7 @@
             "", 
             ""
         ], 
-        "77": [
+        "81": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Sud Ouest", 
@@ -1672,7 +1738,7 @@
             "", 
             ""
         ], 
-        "78": [
+        "82": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Charrente Libre", 
@@ -1694,7 +1760,7 @@
             "", 
             ""
         ], 
-        "79": [
+        "83": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Dordogne Libre", 
@@ -1716,7 +1782,7 @@
             "", 
             ""
         ], 
-        "80": [
+        "84": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "La R\u00e9publique Des Pyr\u00e9n\u00e9es", 
@@ -1738,7 +1804,7 @@
             "", 
             ""
         ], 
-        "81": [
+        "85": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "L'Eclair", 
@@ -1760,7 +1826,7 @@
             "", 
             ""
         ], 
-        "82": [
+        "86": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "le journal", 
@@ -1782,7 +1848,7 @@
             "", 
             ""
         ], 
-        "83": [
+        "87": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "France Antilles", 
@@ -1804,7 +1870,7 @@
             "", 
             ""
         ], 
-        "84": [
+        "88": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "France Guyanne", 
@@ -1826,7 +1892,7 @@
             "", 
             ""
         ], 
-        "85": [
+        "89": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "La Provence", 
@@ -1848,7 +1914,7 @@
             "", 
             ""
         ], 
-        "86": [
+        "90": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Corse Matin", 
@@ -1870,7 +1936,7 @@
             "", 
             ""
         ], 
-        "87": [
+        "91": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Nice matin", 
@@ -1892,7 +1958,7 @@
             "", 
             ""
         ], 
-        "88": [
+        "92": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Paris Normandie", 
@@ -1914,7 +1980,7 @@
             "", 
             ""
         ], 
-        "89": [
+        "93": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Havre Libre", 
@@ -1936,7 +2002,7 @@
             "", 
             ""
         ], 
-        "90": [
+        "94": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Progr\u00e8s de F\u00e9camp", 
@@ -1958,7 +2024,7 @@
             "", 
             ""
         ], 
-        "91": [
+        "95": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le T\u00e9l\u00e9gramme", 
@@ -1980,7 +2046,7 @@
             "", 
             ""
         ], 
-        "92": [
+        "96": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Poher", 
@@ -2002,7 +2068,7 @@
             "", 
             ""
         ], 
-        "93": [
+        "97": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "T\u00e9b\u00e9o", 
@@ -2024,7 +2090,7 @@
             "", 
             ""
         ], 
-        "94": [
+        "98": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "T\u00e9b\u00e9sud", 
@@ -2046,7 +2112,7 @@
             "", 
             ""
         ], 
-        "95": [
+        "99": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "La Voix du Nord", 
@@ -2068,7 +2134,7 @@
             "", 
             ""
         ], 
-        "96": [
+        "100": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Nord Eclair", 
@@ -2090,7 +2156,7 @@
             "", 
             ""
         ], 
-        "97": [
+        "101": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Courrier Picard", 
@@ -2112,7 +2178,7 @@
             "", 
             ""
         ], 
-        "98": [
+        "102": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Aisne Nouvelle", 
@@ -2134,7 +2200,7 @@
             "", 
             ""
         ], 
-        "99": [
+        "103": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "L'Union", 
@@ -2156,7 +2222,7 @@
             "", 
             ""
         ], 
-        "100": [
+        "104": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "L'Ardennais", 
@@ -2178,7 +2244,7 @@
             "", 
             ""
         ], 
-        "101": [
+        "105": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "L'Est Eclair", 
@@ -2200,7 +2266,7 @@
             "", 
             ""
         ], 
-        "102": [
+        "106": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Lib\u00e9ration Champagne", 
@@ -2222,7 +2288,7 @@
             "", 
             ""
         ], 
-        "103": [
+        "107": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Nord Littoral", 
@@ -2244,7 +2310,7 @@
             "", 
             ""
         ], 
-        "104": [
+        "108": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "20 minutes", 
@@ -2266,7 +2332,7 @@
             "", 
             ""
         ], 
-        "105": [
+        "109": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Ouest France", 
@@ -2288,7 +2354,7 @@
             "", 
             ""
         ], 
-        "106": [
+        "110": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Courrier de l'Ouest", 
@@ -2310,7 +2376,7 @@
             "", 
             ""
         ], 
-        "107": [
+        "111": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Maine Libre", 
@@ -2332,7 +2398,7 @@
             "", 
             ""
         ], 
-        "108": [
+        "112": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Presse Oc\u00e9an", 
@@ -2354,7 +2420,7 @@
             "", 
             ""
         ], 
-        "109": [
+        "113": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "La Presse de la Manche", 
@@ -2376,7 +2442,7 @@
             "", 
             ""
         ], 
-        "110": [
+        "114": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Publi Hebdos", 
@@ -2398,7 +2464,7 @@
             "", 
             ""
         ], 
-        "111": [
+        "115": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "La D\u00e9p\u00eache", 
@@ -2420,7 +2486,7 @@
             "", 
             ""
         ], 
-        "112": [
+        "116": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Petit Bleu", 
@@ -2442,7 +2508,7 @@
             "", 
             ""
         ], 
-        "113": [
+        "117": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "La Nouvelle R\u00e9publique des Pyr\u00e9n\u00e9es", 
@@ -2464,7 +2530,7 @@
             "", 
             ""
         ], 
-        "114": [
+        "118": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Midi Libre", 
@@ -2486,7 +2552,7 @@
             "", 
             ""
         ], 
-        "115": [
+        "119": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "L'Ind\u00e9pendant", 
@@ -2508,7 +2574,7 @@
             "", 
             ""
         ], 
-        "116": [
+        "120": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Centre Presse Aveyron", 
@@ -2530,7 +2596,7 @@
             "", 
             ""
         ], 
-        "117": [
+        "121": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Marianne", 
@@ -2552,7 +2618,7 @@
             "", 
             ""
         ], 
-        "118": [
+        "122": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Valeurs Actuelles", 
@@ -2574,7 +2640,7 @@
             "", 
             ""
         ], 
-        "119": [
+        "123": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Gulli", 
@@ -2596,7 +2662,7 @@
             "", 
             ""
         ], 
-        "120": [
+        "124": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Virgin Radio", 
@@ -2618,7 +2684,7 @@
             "", 
             ""
         ], 
-        "121": [
+        "125": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "RFM", 
@@ -2640,7 +2706,7 @@
             "", 
             ""
         ], 
-        "122": [
+        "126": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Le JDD", 
@@ -2662,7 +2728,7 @@
             "", 
             ""
         ], 
-        "123": [
+        "127": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Paris Match", 
@@ -2684,7 +2750,7 @@
             "", 
             ""
         ], 
-        "124": [
+        "128": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Europe 1", 
@@ -2706,7 +2772,7 @@
             "", 
             ""
         ], 
-        "125": [
+        "129": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Nolstalgie", 
@@ -2728,7 +2794,7 @@
             "", 
             ""
         ], 
-        "126": [
+        "130": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Rire et Chansons", 
@@ -2750,7 +2816,7 @@
             "", 
             ""
         ], 
-        "127": [
+        "131": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Ch\u00e9rie FM", 
@@ -2772,7 +2838,7 @@
             "", 
             ""
         ], 
-        "128": [
+        "132": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Ch\u00e9rie 25", 
@@ -2794,7 +2860,7 @@
             "", 
             ""
         ], 
-        "129": [
+        "133": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "NRJ", 
@@ -2816,7 +2882,7 @@
             "", 
             ""
         ], 
-        "130": [
+        "134": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "NRJ12", 
@@ -2838,7 +2904,7 @@
             "", 
             ""
         ], 
-        "131": [
+        "135": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "RTL2", 
@@ -2860,7 +2926,7 @@
             "", 
             ""
         ], 
-        "132": [
+        "136": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "RTL", 
@@ -2882,7 +2948,7 @@
             "", 
             ""
         ], 
-        "133": [
+        "137": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Fun radio", 
@@ -2904,7 +2970,7 @@
             "", 
             ""
         ], 
-        "134": [
+        "138": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "VSD", 
@@ -2926,7 +2992,7 @@
             "", 
             ""
         ], 
-        "135": [
+        "139": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Capital", 
@@ -2948,7 +3014,7 @@
             "", 
             ""
         ], 
-        "136": [
+        "140": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "W9", 
@@ -2970,7 +3036,7 @@
             "", 
             ""
         ], 
-        "137": [
+        "141": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "M6", 
@@ -2992,7 +3058,7 @@
             "", 
             ""
         ], 
-        "138": [
+        "142": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "6ter", 
@@ -3014,7 +3080,7 @@
             "", 
             ""
         ], 
-        "139": [
+        "143": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Management", 
@@ -3036,7 +3102,7 @@
             "", 
             ""
         ], 
-        "140": [
+        "144": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Harvard Business Review", 
@@ -3058,7 +3124,7 @@
             "", 
             ""
         ], 
-        "141": [
+        "145": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "RMC", 
@@ -3080,7 +3146,7 @@
             "", 
             ""
         ], 
-        "142": [
+        "146": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "RMC D\u00e9couverte", 
@@ -3102,7 +3168,7 @@
             "", 
             ""
         ], 
-        "143": [
+        "147": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "BFM Business", 
@@ -3124,7 +3190,7 @@
             "", 
             ""
         ], 
-        "144": [
+        "148": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "BFM TV", 
@@ -3146,7 +3212,7 @@
             "", 
             ""
         ], 
-        "145": [
+        "149": [
             0, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "Numero 23", 
@@ -3168,7 +3234,7 @@
             "", 
             ""
         ], 
-        "146": [
+        "150": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Lib\u00e9ration", 
@@ -3190,7 +3256,7 @@
             "", 
             ""
         ], 
-        "147": [
+        "151": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "L'Express", 
@@ -3212,7 +3278,7 @@
             "", 
             ""
         ], 
-        "148": [
+        "152": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "L'Express l'Expansion", 
@@ -3234,7 +3300,7 @@
             "", 
             ""
         ], 
-        "149": [
+        "153": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "L'Express Votre Argent", 
@@ -3256,7 +3322,7 @@
             "", 
             ""
         ], 
-        "150": [
+        "154": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Strat\u00e9gie", 
@@ -3278,7 +3344,7 @@
             "", 
             ""
         ], 
-        "151": [
+        "155": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Parisien Aujourd'hui en France ", 
@@ -3300,7 +3366,7 @@
             "", 
             ""
         ], 
-        "152": [
+        "156": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Parisien", 
@@ -3322,7 +3388,7 @@
             "", 
             ""
         ], 
-        "153": [
+        "157": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Parisien Magazine", 
@@ -3344,7 +3410,7 @@
             "", 
             ""
         ], 
-        "154": [
+        "158": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Le Parisien Economie", 
@@ -3366,7 +3432,7 @@
             "", 
             ""
         ], 
-        "155": [
+        "159": [
             4, 
             "Voici les liens capitalistiques avec les principaux actionnaires du m\u00e9dia que vous consultez :", 
             "L'Opinion", 
@@ -3388,7 +3454,7 @@
             "", 
             ""
         ], 
-        "156": [
+        "160": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "L'Histoire", 
@@ -3410,7 +3476,7 @@
             "", 
             ""
         ], 
-        "157": [
+        "161": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Historia", 
@@ -3432,7 +3498,7 @@
             "", 
             ""
         ], 
-        "158": [
+        "162": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Challenges", 
@@ -3454,7 +3520,7 @@
             "", 
             ""
         ], 
-        "159": [
+        "163": [
             4, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Les Echos", 
@@ -3476,7 +3542,7 @@
             "", 
             ""
         ], 
-        "160": [
+        "164": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Les Echos Weekend", 
@@ -3498,7 +3564,7 @@
             "", 
             ""
         ], 
-        "161": [
+        "165": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Investir", 
@@ -3520,7 +3586,7 @@
             "", 
             ""
         ], 
-        "162": [
+        "166": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "Radio Classique", 
@@ -3542,7 +3608,7 @@
             "", 
             ""
         ], 
-        "163": [
+        "167": [
             0, 
             "Voici les liens capitalistiques avec le principal actionnaire du m\u00e9dia que vous consultez :", 
             "La Tribune", 
@@ -3566,164 +3632,167 @@
         ]
     }, 
     "urls": {
-        "nrj-play.fr/nrj12": 130, 
-        "larep.fr/": 73, 
-        "cstar.fr/": 21, 
-        "presseocean.fr/": 108, 
-        "agefi.fr/": 32, 
-        "poher.bzh/": 92, 
-        "tvtours.fr/": 76, 
-        "lejdd.fr/": 122, 
-        "gulli.fr\n": 119, 
-        "lyonne.fr/": 68, 
-        "lemondedesreligions.fr/": 10, 
-        "paris-normandie.fr/": 88, 
-        "lemonde.fr": 11, 
-        "lapressedelamanche.fr/": 109, 
-        "parismatch.com/": 123, 
-        "france3.fr": 46, 
-        "rfm.fr/": 121, 
-        "petitbleu.fr/": 112, 
-        "vsd.fr/": 134, 
-        "lavoixdunord.fr/": 95, 
-        "publihebdos.com/": 110, 
-        "mouv.fr/": 50, 
-        "valeursactuelles.com/": 118, 
-        "lexpress.fr/": 147, 
-        "ledauphine.com/": 58, 
-        "franceo.fr/": 43, 
-        "francetvinfo.fr/": 48, 
-        "la-croix.com/": 35, 
-        "youtube.com/user/gulli": 119, 
-        "dordognelibre.fr/": 79, 
-        "slate.fr/": 30, 
-        "votreargent.lexpress.fr/": 149, 
-        "radiofrance.fr/": 49, 
-        "cnewsmatin.fr/": 24, 
-        "leparisien.fr/": 152, 
-        "rfi.fr/\u200e": 41, 
-        "fipradio.fr/": 52, 
-        "estrepublicain.fr/": 66, 
-        "jhm.fr/": 56, 
-        "lefigaro.fr/": 18, 
-        "lhistoire.fr/": 156, 
-        "rtl2.fr/": 131, 
-        "lefigaro.fr/magazine/": 17, 
-        "monde-diplomatique.fr/mav/": 4, 
-        "latribune.fr": 163, 
-        "tf1.fr/nt1": 27, 
-        "larepubliquedespyrenees.fr/": 80, 
-        "letelegramme.fr/": 91, 
-        "europe1.fr/": 124, 
-        "corsematin.com/": 86, 
-        "lexpansion.lexpress.fr/": 148, 
-        "facebook.com/lesechos": 159, 
-        "bfmbusiness.bfmtv.com/": 145, 
-        "nicematin.com/": 87, 
-        "bienpublic.com/": 61, 
-        "virginradio.fr/": 120, 
-        "lepoint.fr/": 31, 
-        "tempsreel.nouvelobs.com/": 3, 
-        "lamontagne.fr/": 72, 
-        "marianne.net": 19, 
-        "funradio.fr/": 133, 
-        "lopinion.fr/": 155, 
-        "ladepeche.fr/": 111, 
-        "francemusique.fr/": 53, 
-        "canalplus.fr/": 23, 
-        "telerama.fr": 8, 
-        "francebleu.fr/": 51, 
-        "tf1.fr/tmc": 26, 
-        "bfmtv.com/": 144, 
-        "tebesud.fr/": 94, 
-        "strategies.fr/": 150, 
-        "twitter.com/gulli": 119, 
-        "charentelibre.fr/": 78, 
-        "notretemps.com/": 33, 
-        "lardennais.fr/": 100, 
-        "laprovence.com/": 85, 
-        "facebook.com/lefigaro": 18, 
+        "nrj-play.fr/nrj12": 134, 
+        "larep.fr/": 77, 
+        "cstar.fr/": 25, 
+        "presseocean.fr/": 112, 
+        "agefi.fr/": 36, 
+        "poher.bzh/": 96, 
+        "tvtours.fr/": 80, 
+        "lejdd.fr/": 126, 
+        "gulli.fr\n": 123, 
+        "lyonne.fr/": 72, 
+        "lemondedesreligions.fr/": 14, 
+        "paris-normandie.fr/": 92, 
+        "lemonde.fr": 15, 
+        "lapressedelamanche.fr/": 113, 
+        "parismatch.com/": 127, 
+        "france3.fr": 50, 
+        "rfm.fr/": 125, 
+        "petitbleu.fr/": 116, 
+        "vsd.fr/": 138, 
+        "lavoixdunord.fr/": 99, 
+        "decodex.inoumis.online/independant\n": 5, 
+        "mouv.fr/": 54, 
+        "valeursactuelles.com/": 122, 
+        "lexpress.fr/": 151, 
+        "ledauphine.com/": 62, 
+        "franceo.fr/": 47, 
+        "francetvinfo.fr/": 52, 
+        "la-croix.com/": 39, 
+        "youtube.com/user/gulli": 123, 
+        "dordognelibre.fr/": 83, 
+        "slate.fr/": 34, 
+        "votreargent.lexpress.fr/": 153, 
+        "radiofrance.fr/": 53, 
+        "cnewsmatin.fr/": 28, 
+        "leparisien.fr/": 156, 
+        "rfi.fr/\u200e": 45, 
+        "fipradio.fr/": 56, 
+        "estrepublicain.fr/": 70, 
+        "jhm.fr/": 60, 
+        "lefigaro.fr/": 22, 
+        "lhistoire.fr/": 160, 
+        "rtl2.fr/": 135, 
+        "lefigaro.fr/magazine/": 21, 
+        "monde-diplomatique.fr/mav/": 8, 
+        "latribune.fr": 167, 
+        "tf1.fr/nt1": 31, 
+        "larepubliquedespyrenees.fr/": 84, 
+        "letelegramme.fr/": 95, 
+        "europe1.fr/": 128, 
+        "corsematin.com/": 90, 
+        "lexpansion.lexpress.fr/": 152, 
+        "facebook.com/lesechos": 163, 
+        "bfmbusiness.bfmtv.com/": 149, 
+        "nicematin.com/": 91, 
+        "bienpublic.com/": 65, 
+        "virginradio.fr/": 124, 
+        "lepoint.fr/": 35, 
+        "tempsreel.nouvelobs.com/": 7, 
+        "lamontagne.fr/": 76, 
+        "marianne.net": 23, 
+        "funradio.fr/": 137, 
+        "lopinion.fr/": 159, 
+        "ladepeche.fr/": 115, 
+        "francemusique.fr/": 57, 
+        "canalplus.fr/": 27, 
+        "telerama.fr": 12, 
+        "francebleu.fr/": 55, 
+        "tf1.fr/tmc": 30, 
+        "bfmtv.com/": 148, 
+        "tebesud.fr/": 98, 
+        "strategies.fr/": 154, 
+        "twitter.com/gulli": 123, 
+        "charentelibre.fr/": 82, 
+        "notretemps.com/": 37, 
+        "lardennais.fr/": 104, 
+        "laprovence.com/": 89, 
+        "facebook.com/lefigaro": 22, 
         "decodex.insoumis.online": 2, 
-        "radioclassique.fr/": 162, 
-        "leberry.fr/": 69, 
-        "publicsenat.fr/": 37, 
-        "lesechos.fr/": 159, 
-        "tebeo.bzh/": 93, 
-        "leprogres.fr/": 59, 
-        "centre-presse.fr/": 74, 
-        "www.lesechos.fr/week-end/": 160, 
-        "hbrfrance.fr/": 140, 
-        "franceinter.fr/": 55, 
-        "novaplanet.com/": 13, 
-        "cheriefm.fr/": 127, 
-        "france24.com/\u200e": 40, 
-        "leparisien.fr/economie/": 154, 
-        "lcp.fr/": 38, 
-        "cnew.fr/": 20, 
-        "lunion.fr/": 99, 
-        "leparticulier.fr/": 16, 
-        "m6.fr/": 137, 
+        "radioclassique.fr/": 166, 
+        "leberry.fr/": 73, 
+        "publicsenat.fr/": 41, 
+        "lesechos.fr/": 163, 
+        "tebeo.bzh/": 97, 
+        "leprogres.fr/": 63, 
+        "centre-presse.fr/": 78, 
+        "www.lesechos.fr/week-end/": 164, 
+        "hbrfrance.fr/": 144, 
+        "franceinter.fr/": 59, 
+        "novaplanet.com/": 17, 
+        "cheriefm.fr/": 131, 
+        "france24.com/\u200e": 44, 
+        "leparisien.fr/economie/": 158, 
+        "lcp.fr/": 42, 
+        "cnew.fr/": 24, 
+        "lunion.fr/": 103, 
+        "leparticulier.fr/": 20, 
+        "m6.fr/": 141, 
         "insoumis.online": 2, 
-        "lechorepublicain.fr/": 67, 
-        "centrepresseaveyron.fr/": 116, 
-        "lemainelibre.fr/": 107, 
-        "france5.fr/": 44, 
-        "ouest-france.fr/": 105, 
-        "lepopulaire.fr/": 71, 
-        "c8.fr/": 22, 
-        "leparisien.fr/magazine/": 153, 
-        "lci.fr/": 28, 
-        "lest-eclair.fr/": 101, 
-        "lanouvellerepublique.fr/": 75, 
-        "nrj.fr/": 129, 
-        "franceantilles.fr/": 83, 
-        "midilibre.fr/": 114, 
-        "prier.presse.fr": 7, 
-        "liberation.fr/": 146, 
-        "marianne.net/": 117, 
-        "lejdc.fr/": 70, 
-        "20minutes.fr/": 104, 
-        "sudouest.fr/": 77, 
-        "republicain-lorrain.fr/": 65, 
-        "lindependant.fr/": 115, 
-        "monde-diplomatique.fr": 5, 
-        "lavie.fr": 6, 
-        "capital.fr/": 135, 
-        "challenges.fr/": 158, 
-        "paris-normandie.fr/fecamp": 90, 
-        "vosgesmatin.fr/": 63, 
-        "historia.fr/": 157, 
-        "nrj-play.fr/cherie25": 128, 
-        "rtl.fr/": 132, 
-        "france4.fr/": 45, 
-        "franceculture.fr/": 54, 
-        "nostalgie.fr/": 125, 
-        "nrpyrenees.fr/": 113, 
-        "courrierinternational.com": 9, 
-        "investir.lesechos.fr/": 161, 
-        "franceguyane.fr/": 84, 
-        "courrierdelouest.fr/": 106, 
-        "vice.com/": 14, 
-        "huffingtonpost.fr/": 15, 
-        "nordeclair.fr/": 96, 
-        "tf1.fr/": 29, 
-        "6play.fr/6ter": 138, 
-        "facebook.com/france2": 47, 
-        "rireetchansons.fr/": 126, 
-        "france2.fr": 47, 
-        "lalsace.fr/": 62, 
-        "twitter.com/LesEchos": 159, 
-        "aisnenouvelle.fr/": 98, 
-        "tv5monde.com/\u200e": 42, 
-        "paris-normandie.fr/le-havre": 89, 
-        "lesinrocks.com/": 12, 
-        "pelerin.com/": 34, 
-        "dna.fr/": 64, 
-        "itele.fr/": 20, 
-        "facebook.com/gulli": 119, 
-        "arte.tv/": 36, 
-        "6play.fr/w9": 136, 
-        "courrier-picard.fr/": 97, 
-        "nordlittoral.fr/": 103
+        "lechorepublicain.fr/": 71, 
+        "centrepresseaveyron.fr/": 120, 
+        "lemainelibre.fr/": 111, 
+        "france5.fr/": 48, 
+        "ouest-france.fr/": 109, 
+        "lepopulaire.fr/": 75, 
+        "c8.fr/": 26, 
+        "decodex.inoumis.online/soumis-etat": 4, 
+        "lci.fr/": 32, 
+        "lest-eclair.fr/": 105, 
+        "lanouvellerepublique.fr/": 79, 
+        "nrj.fr/": 133, 
+        "franceantilles.fr/": 87, 
+        "midilibre.fr/": 118, 
+        "prier.presse.fr": 11, 
+        "liberation.fr/": 150, 
+        "marianne.net/": 121, 
+        "lejdc.fr/": 74, 
+        "20minutes.fr/": 108, 
+        "sudouest.fr/": 81, 
+        "leparisien.fr/magazine/": 157, 
+        "republicain-lorrain.fr/": 69, 
+        "lindependant.fr/": 119, 
+        "monde-diplomatique.fr": 9, 
+        "lavie.fr": 10, 
+        "capital.fr/": 139, 
+        "challenges.fr/": 162, 
+        "paris-normandie.fr/fecamp": 94, 
+        "vosgesmatin.fr/": 67, 
+        "historia.fr/": 161, 
+        "publihebdos.com/": 114, 
+        "nrj-play.fr/cherie25": 132, 
+        "rtl.fr/": 136, 
+        "france4.fr/": 49, 
+        "franceculture.fr/": 58, 
+        "nostalgie.fr/": 129, 
+        "nrpyrenees.fr/": 117, 
+        "courrierinternational.com": 13, 
+        "investir.lesechos.fr/": 165, 
+        "franceguyane.fr/": 88, 
+        "courrierdelouest.fr/": 110, 
+        "vice.com/": 18, 
+        "huffingtonpost.fr/": 19, 
+        "nordeclair.fr/": 100, 
+        "tf1.fr/": 33, 
+        "6play.fr/6ter": 142, 
+        "facebook.com/france2": 51, 
+        "rireetchansons.fr/": 130, 
+        "france2.fr": 51, 
+        "lalsace.fr/": 66, 
+        "twitter.com/LesEchos": 163, 
+        "aisnenouvelle.fr/": 102, 
+        "tv5monde.com/\u200e": 46, 
+        "paris-normandie.fr/le-havre": 93, 
+        "lesinrocks.com/": 16, 
+        "pelerin.com/": 38, 
+        "dna.fr/": 68, 
+        "itele.fr/": 24, 
+        "facebook.com/gulli": 123, 
+        "arte.tv/": 40, 
+        "6play.fr/w9": 140, 
+        "decodex.inoumis.online/soumis-capital\n": 3, 
+        "courrier-picard.fr/": 101, 
+        "nordlittoral.fr/": 107
     }
 }
