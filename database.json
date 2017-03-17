@@ -3629,6 +3629,28 @@
             "", 
             "", 
             ""
+        ], 
+        "169": [
+            0, 
+            "\u00ab L\u00c0-BAS SI J\u2019Y SUIS \u00bb, cr\u00e9\u00e9e et anim\u00e9e par Daniel Mermet, est une des plus grandes \u00e9missions de l\u2019histoire de la radio. Sur France Inter de 1989 \u00e0 2014, puis sur internet financ\u00e9 exclusivement par les abonnements depuis le 21 janvier 2015", 
+            "L\u00e0-bas si j'y suis", 
+            "la-bas-si-jy-suis", 
+            4, 
+            "Non", 
+            "0", 
+            "[Mentions L\u00e9gales](https://la-bas.org/credits-mentions-legales), [Qui sommes nous](https://la-bas.org/qui-sommes-nous)", 
+            "Association Modeste et G\u00e9niale", 
+            "association \u00e0 but non lucratif", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            "", 
+            ""
         ]
     }, 
     "urls": {
@@ -3776,6 +3798,7 @@
         "huffingtonpost.fr/": 20, 
         "nordeclair.fr/": 101, 
         "tf1.fr/": 34, 
+        "la-bas.org": 169, 
         "6play.fr/6ter": 143, 
         "facebook.com/france2": 52, 
         "rireetchansons.fr/": 131, 
