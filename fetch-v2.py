@@ -145,6 +145,8 @@ with open('tmp.csv', 'rb') as csvfile:
         for i in range(col_urls, len(row)-1):
             url = row[i]
             url = url.rstrip('/')
+            url = url.rstrip('\n')
+            url = url.rstrip(' ')
 
             if url:
                 database['urls'][url] = id
