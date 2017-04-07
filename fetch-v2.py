@@ -146,8 +146,8 @@ with open('tmp.csv', 'rb') as csvfile:
             url = row[i]
             url = url.rstrip('/')
 
-            if row[i]:
-                database['urls'][row[i]] = id
+            if url:
+                database['urls'][url] = id
 
 with open('database.json', 'wb') as outfile:
     json.dump(database, outfile, indent=4)
