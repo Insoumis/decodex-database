@@ -1,8 +1,8 @@
 # Décodex Insoumis
 
-[Télécharger la version firefox](/decodex_insoumis-firefox-1.1.4.38.xpi)
+[Télécharger la version firefox](/decodex_insoumis-firefox-1.1.4.39.xpi)
 
-[Télécharger la version chrome](/decodex_insoumis-chrome-1.1.4.38.zip)
+[Télécharger la version chrome](/decodex_insoumis-chrome-1.1.4.39.zip)
 
 [Voir le code source de l'extension (github)](https://github.com/Insoumis/decodex-insoumis-firefox/)
 
