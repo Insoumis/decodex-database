@@ -239,7 +239,7 @@ label{
 @media screen and (min-width: 670px){
 	.main{
 		position: relative;
-		max-width: 600px;
+        margin : auto;
 	}
 
 	header{
