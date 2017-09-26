@@ -124,7 +124,7 @@ function lastSlash(url){ // remove the last slash at the end of the string
         return url.substring(0, url.length-1);
     }
     else {
-        return url;	
+        return url;
     }
 }
 function url_cleaner(url){
@@ -179,6 +179,8 @@ function debunkSite(url, data){
 
     urls = data.urls;
     sites = data.sites;
+    url = lastSlash(url);
+    url = url_cleaner(url);
     has_info = urls.hasOwnProperty(url);
     // si le site est trouvé direct
     if (has_info == true) {
