@@ -315,6 +315,7 @@ function debunkSite(url, data){
         //}
     }
     else {
+        $("#result").html('Nous n\'avons actuellement aucune information sur ce site.');
         if (2 <= _debug) {
             console && console.info("site non trouvé", url);
             console && console.log(url);
