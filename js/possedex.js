@@ -107,8 +107,20 @@ $(document).ready(function(){
 
     $("#submit-possedex").on("click", function(e){
         e.preventDefault();
-        $("#form-possedex").submit();
+        if (url.length > 0) {
+            $("#form-possedex").submit();
+        } else {
+            alert("Saisissez d'abord une url :) ");
+        }
     });
+
+    var current_location = document.location.href; // full url;
+    if ((pos = current_location.indexOf('#')) > -1) {
+        url = current_location.substring(pos+1);
+        $("#url").val(url);
+        $("#submit-possedex").click();
+    }
+
 });
 
 function removeAfterLastSlash(url){
