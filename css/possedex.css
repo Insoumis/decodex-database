@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "RelayComp-Black";
+    src: url('/fonts/relaycomp-black.ttf');
+}
+h1, h2, h3, h4, h5, h6{
+    font-family : "RelayComp-Black";
+}
+/*.main-title { font-size : 46px}*/
+
 /* Space out content a bit */
 body {
   padding-top: 1.5rem;

@@ -98,20 +98,19 @@ $(document).ready(function(){
     $("#form-possedex").on("submit", function(e){
         e.preventDefault();
         var url = $("#url").val();
-        if (url) {
+        if (url.length > 0) {
+            document.location.hash = url;
             $.getJSON(base_url, function(data){
                 debunkSite(url, data);
             });
+        } else {
+            alert("Saisissez d'abord une url :) ");
         }
     });
 
     $("#submit-possedex").on("click", function(e){
         e.preventDefault();
-        if (url.length > 0) {
-            $("#form-possedex").submit();
-        } else {
-            alert("Saisissez d'abord une url :) ");
-        }
+        $("#form-possedex").submit();
     });
 
     var current_location = document.location.href; // full url;
@@ -255,60 +254,60 @@ function debunkSite(url, data){
             // URL toute seule
             var regex = new RegExp(/^(http[s]?:\/\/([^/]+)\/[^" ,]+)[^"]{1,2}$/g);
 
-            match = regex.exec(raw_sources);
-            while (match != null) {
-                url   = match[1];
-                title = match[2];
-                sources.push({"url":url, "title":title});
-                match = regex.exec(raw_sources);
-            }
+                    match = regex.exec(raw_sources);
+                    while (match != null) {
+                    url   = match[1];
+                    title = match[2];
+                    sources.push({"url":url, "title":title});
+                    match = regex.exec(raw_sources);
+                    }
 
-            if (3 <= _debug) {
-                console && console.log("sources apres urls simples", sources);
-            }
+                    if (3 <= _debug) {
+                    console && console.log("sources apres urls simples", sources);
+                    }
 
-                note          = insoumis_note;
-                color         = colors[insoumis_note];
-                message       = messages[insoumis_note];
-                decodex_color = decodex_colors[decodex_note];
-                decodex_desc  = decodex_descs[decodex_note];
-                bandeau_msg   = bandeau_msgs[insoumis_note];
-                icone         = icones[insoumis_note];
+                    note          = insoumis_note;
+                    color         = colors[insoumis_note];
+                    message       = messages[insoumis_note];
+                    decodex_color = decodex_colors[decodex_note];
+                    decodex_desc  = decodex_descs[decodex_note];
+                    bandeau_msg   = bandeau_msgs[insoumis_note];
+                    icone         = icones[insoumis_note];
 
-                if (2 <= _debug) {
-                    console && console.group("tout s'est bien passé");
-                    console && console.log('site_actif     =',site_actif     );
-                    console && console.log('decodex_note   =',decodex_note   );
-                    console && console.log('insoumis_note  =',insoumis_note );
-                    console && console.log('notule         =',notule         );
-                    console && console.log('slug           =',slug           );
-                    console && console.log('proprietaires  =',proprietaires  );
-                    console && console.log('interets       =',interets       );
-                    console && console.log('conflits       =',conflits       );
-                    console && console.log('subventions    =',subventions    );
-                    console && console.log('sources        =',sources        );
-                    console && console.groupEnd();
-                }
-                // display results
-                $("#result").html('<dl id="infos">');
-                $("#infos").append("<dt>Nom</dt>")
-                $("#infos").append("<dd>"+site_actif+"</dd>");
-                $("#result").append("<dt>Note LeMonde (outdated)</dt><dd>"+decodex_note+"</dd>");
-                $("#result").append("<dt>Note possédex(à définir)</dt><dd>"+insoumis_note+"</dd>");
-                $("#result").append("<dt>Description</dt><dd>"+notule+"</dd>");
-                $("#result").append("<dt>identifiant(à masquer plus tard)</dt><dd>"+slug+"</dd>");
-                $("#result").append("<dt>Propriétaires</dt><dd>"+proprietaires+"</dd>");
-                $("#result").append("<dt>Intérêts</dt><dd>"+interets+"</dd>");
-                $("#result").append("<dt>Conflits</dt><dd>"+conflits+"</dd>");
-                $("#result").append("<dt>Subventions</dt><dd>"+subventions+"</dd>");
-                $("#result").append(sources);
-            } catch(e) {
-                if (1 <= _debug) {
-                    console && console.error("ERREUR has_info");
-                    console && console.error(e);
-                    console && console.log(sites[site_id]);
-                }
+                    if (2 <= _debug) {
+                        console && console.group("tout s'est bien passé");
+                        console && console.log('site_actif     =',site_actif     );
+                        console && console.log('decodex_note   =',decodex_note   );
+                        console && console.log('insoumis_note  =',insoumis_note );
+                        console && console.log('notule         =',notule         );
+                        console && console.log('slug           =',slug           );
+                        console && console.log('proprietaires  =',proprietaires  );
+                        console && console.log('interets       =',interets       );
+                        console && console.log('conflits       =',conflits       );
+                        console && console.log('subventions    =',subventions    );
+                        console && console.log('sources        =',sources        );
+                        console && console.groupEnd();
+                    }
+                    // display results
+                    $("#result").html('<dl id="infos">');
+                    $("#infos").append("<dt>Nom</dt>")
+                        $("#infos").append("<dd>"+site_actif+"</dd>");
+                    $("#result").append("<dt>Note LeMonde (outdated)</dt><dd>"+decodex_note+"</dd>");
+                    $("#result").append("<dt>Note possédex(à définir)</dt><dd>"+insoumis_note+"</dd>");
+                    $("#result").append("<dt>Description</dt><dd>"+notule+"</dd>");
+                    $("#result").append("<dt>identifiant(à masquer plus tard)</dt><dd>"+slug+"</dd>");
+                    $("#result").append("<dt>Propriétaires</dt><dd>"+proprietaires+"</dd>");
+                    $("#result").append("<dt>Intérêts</dt><dd>"+interets+"</dd>");
+                    $("#result").append("<dt>Conflits</dt><dd>"+conflits+"</dd>");
+                    $("#result").append("<dt>Subventions</dt><dd>"+subventions+"</dd>");
+                    $("#result").append(sources);
+        } catch(e) {
+            if (1 <= _debug) {
+                console && console.error("ERREUR has_info");
+                console && console.error(e);
+                console && console.log(sites[site_id]);
             }
+        }
 
 
         //if(results.infobulles[insoumis_note] == true){  // note
