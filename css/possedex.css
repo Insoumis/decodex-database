@@ -102,3 +102,20 @@ body {
 
 .possedex a { color : #111;font-weight:bold}
 
+
+h1, h2, h3, h4, h5, h6, #result label{
+    color       : #00A86B;
+    font-family : "RelayComp-Black";
+}
+#result {
+    background-color : #1d2771;
+    color            : #f4f4f8;
+    padding          : 20px;
+}
+#result label {
+    font-size        : 24px;
+}
+#result p {
+    font-size        : 18px;
+    margin-left      : 30px;
+}

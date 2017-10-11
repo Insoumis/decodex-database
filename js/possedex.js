@@ -290,16 +290,16 @@ function debunkSite(url, data){
                     }
                     // display results
                     $("#result").html('<dl id="infos">');
-                    $("#infos").append("<dt>Nom</dt>")
-                        $("#infos").append("<dd>"+site_actif+"</dd>");
-                    $("#result").append("<dt>Note LeMonde (outdated)</dt><dd>"+decodex_note+"</dd>");
-                    $("#result").append("<dt>Note possédex(à définir)</dt><dd>"+insoumis_note+"</dd>");
-                    $("#result").append("<dt>Description</dt><dd>"+notule+"</dd>");
-                    $("#result").append("<dt>identifiant(à masquer plus tard)</dt><dd>"+slug+"</dd>");
-                    $("#result").append("<dt>Propriétaires</dt><dd>"+proprietaires+"</dd>");
-                    $("#result").append("<dt>Intérêts</dt><dd>"+interets+"</dd>");
-                    $("#result").append("<dt>Conflits</dt><dd>"+conflits+"</dd>");
-                    $("#result").append("<dt>Subventions</dt><dd>"+subventions+"</dd>");
+                    $("#infos").append("<label>Nom</label>");
+                    $("#infos").append("<p>"+site_actif+"</p>");
+                    $("#result").append("<label>Note LeMonde (outdated)</label><p>"+decodex_note+"</p>");
+                    $("#result").append("<label>Note possédex(à définir)</label><p>"+insoumis_note+"</p>");
+                    $("#result").append("<label>Description</label><p>"+notule+"</p>");
+                    $("#result").append("<label>identifiant(à masquer plus tard)</label><p>"+slug+"</p>");
+                    $("#result").append("<label>Propriétaires</label><p>"+proprietaires+"</p>");
+                    $("#result").append("<label>Intérêts</label><p>"+interets+"</p>");
+                    $("#result").append("<label>Conflits</label><p>"+conflits+"</p>");
+                    $("#result").append("<label>Subventions</label><p>"+subventions+"</p>");
                     $("#result").append(sources);
         } catch(e) {
             if (1 <= _debug) {
