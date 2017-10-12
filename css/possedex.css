@@ -5,6 +5,7 @@
 h1, h2, h3, h4, h5, h6{
     font-family : "RelayComp-Black";
 }
+
 /*.main-title { font-size : 46px}*/
 
 /* Space out content a bit */
@@ -100,7 +101,7 @@ body {
     color : #555
 }
 
-.possedex a { color : #111;font-weight:bold}
+.possedex a { color : #111;font-weight:bold; }
 
 
 h1, h2, h3, h4, h5, h6, #result label{
@@ -118,4 +119,10 @@ h1, h2, h3, h4, h5, h6, #result label{
 #result p {
     font-size        : 18px;
     margin-left      : 30px;
+}
+
+.main-title a {
+color:#555;
+font-weight:normal;
+text-decoration : none;
 }
